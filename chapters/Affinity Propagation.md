@@ -1,5 +1,4 @@
-# Understanding Affinity Propagation: Definition, Explanations, Examples &
-Code
+# Understanding Affinity Propagation: Definition, Explanations, Examples & Code
 
 The Affinity Propagation (AP) algorithm is a type of unsupervised machine
 learning algorithm used for clustering. It automatically determines the number
