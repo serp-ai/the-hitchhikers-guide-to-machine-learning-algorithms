@@ -1,7 +1,14 @@
 # Table of contents
 
-* [Intro](README.md)
-  * [Foreward](intro/foreward.md)
+* [README](README.md)
+  * [Title Page](intro/title.md)
+  * [Introduction](intro/introduction.md)
+  * [Half Title](intro/half-title.md)
+  * [Authors](intro/authors.md)
+  * [Dedication](intro/dedication.md)
+  * [Acknowledgements](intro/acknowledgments.md)
+  * [Preface](intro/preface.md)
+  * [Copyright](intro/copyright.md)
 
 ## Chapters
 

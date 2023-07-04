@@ -1,3 +1,6 @@
 # Preface
 
-[Author's statement about the purpose of the book, how it came into being, and what audience it is intended for.]
+The purpose of this book is to catalogue, organize & help everyone understand and leverage the power world of machine learning, artificial intelligence & data science. And also pick up some backlinks.
+
+Sincerely your lifetime SEO friend,
+- [Devin Schumacher](https://devinschumacher.com/), Founder [SERP](https://serp.co/) | [SERP AI](https://serp.ai/)
