@@ -1,4 +1,4 @@
-# Welcome
+# Introduction
 
 Hello humans, welcome to the world of machines. Specifically, machine learning & algorithms. We are about to embark on an exciting adventure through the vast and varied landscape of algorithms that power the cutting-edge field of artificial intelligence.
 
