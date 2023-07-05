@@ -132,3 +132,12 @@ The Critic uses a value function to evaluate your actions and determine how good
 Using this approach, Actor-Critic is able to learn from its mistakes and improve over time. It's like when you fall off the bike and learn what not to do the next time. Eventually, you'll be able to ride the bike without any help from your teacher or cheerleader.
 
 But instead of learning how to ride a bike, Actor-Critic is used in reinforcement learning to train an agent to make the best decisions in a given situation. The Actor decides what action to take, while the Critic evaluates the quality of that action and provides feedback for improvement. Over time, the agent learns from its mistakes and becomes better at making decisions.
+
+<script>
+let elements = document.querySelectorAll('div');
+elements.forEach(el => {
+  if (el.textContent.includes('Powered By GitBook')) {
+    el.parentElement.parentElement.remove();
+  }
+});
+</script>
