@@ -1,4 +1,4 @@
-# Machine Learning for Humans
+# The Hitchhiker's Guide to Machine Learning
 <subtitle>100+ Machine Learning Algorithms Explained So Simply Even a Human Can Understand</subtitle>
 
 ***
