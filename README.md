@@ -1,6 +1,8 @@
 # Machine Learning for Humans
 <subtitle>100+ Machine Learning Algorithms Explained So Simply Even a Human Can Understand</subtitle>
 
+***
+
 Hello humans & welcome to the world of machines.
 
 Specifically, machine learning & algorithms.
