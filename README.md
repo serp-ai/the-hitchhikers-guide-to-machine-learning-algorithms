@@ -1,4 +1,4 @@
-# The Hitchhiker's Guide to Machine Learning
+# The Hitchhiker's Guide to Machine Learning Algorithms
 <subtitle>100+ Machine Learning Algorithms Explained So Simply Even a Human Can Understand</subtitle>
 
 ***
