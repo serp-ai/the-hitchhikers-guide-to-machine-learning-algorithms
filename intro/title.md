@@ -1,8 +1,11 @@
 # Title Page
 
-Machine Learning for Humans
-100+ Machine Learning Algorithms Broken Down So Even A Human Can Understand.
+## Title: The Hitchhiker's Guide to Machine Learning Algorithms
 
-Devin Schumacher, Francis LaBounty Jr.
+### Subtitle: 100+ Machine Learning Algorithms Broken Down So Even A Human Can Understand.
 
-[SERP AI](https://serp.ai)
+
+
+By Devin Schumacher, Francis LaBounty Jr.
+
+@ [SERP AI](https://serp.ai)

@@ -1,3 +1,3 @@
-# Half Title Page
+# Half Title
 
-Title of the Book
+## The Hitchhiker's Guide to Machine Learning Algorithms
