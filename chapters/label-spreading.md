@@ -147,3 +147,4 @@ If you ever find yourself sorting a big pile of movies and wanted a little
 help, think of Label Spreading. Just like how friends discussing movies can
 help you decide what to watch next, Label Spreading can help classify
 unlabeled data points based on their neighbors' opinions.
+[Label Spreading](https://serp.ai/label-spreading/)

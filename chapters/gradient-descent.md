@@ -197,3 +197,4 @@ those values efficiently.
 So, in short, Gradient Descent is an optimization algorithm that helps us find
 the lowest point of a mathematical function by taking small steps in the
 direction of the steepest slope.
+[Gradient Descent](https://serp.ai/gradient-descent/)

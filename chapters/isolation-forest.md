@@ -136,3 +136,4 @@ be unknown and unexpected.
 
 Isolation Forest is a powerful tool for anomaly detection in a variety of
 industries, including finance, healthcare, and cybersecurity.
+[Isolation Forest](https://serp.ai/isolation-forest/)

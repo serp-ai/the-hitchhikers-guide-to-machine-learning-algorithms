@@ -137,3 +137,4 @@ adventure book guides us through a story based on our choices.
 
 Try exploring some Decision Tree algorithms, and see how they can help you
 make better decisions!
+[Conditional Decision Trees](https://serp.ai/conditional-decision-trees/)

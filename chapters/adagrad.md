@@ -87,3 +87,5 @@ This optimization algorithm is useful when working with sparse data because it c
 Adagrad constantly adjusts the step size for each variable to ensure that the learning rate is neither too large nor too small. This adaptive learning rate technique allows the algorithm to converge quickly and avoid overshooting the optimal solution.
 
 In essence, Adagrad is like a highly personalized coach that tailors your training to your specific needs, helping you reach your goals faster and with better precision.
+
+[Adagrad](https://serp.ai/adagrad/)

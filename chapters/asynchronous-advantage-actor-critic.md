@@ -203,3 +203,4 @@ neural networks makes this process faster and more efficient.
 So, A3C is like having a team of superheroes working together yet
 independently, each using its unique abilities to make decisions based on the
 environment they operate in.
+[Asynchronous Advantage Actor Critic](https://serp.ai/asynchronous-advantage-actor-critic/)

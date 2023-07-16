@@ -205,3 +205,4 @@ machine learning model by combining the outputs of multiple models, while also
 reducing their biases.
 
   *[MCTS]: Monte Carlo Tree Search
+[Stacked Generalization](https://serp.ai/stacked-generalization/)

@@ -161,3 +161,4 @@ is useful for a specific prediction and improves the accuracy of the model.
 
 Try LWL next time you want to make a prediction based on a specific area of
 data!
+[Locally Weighted Learning](https://serp.ai/locally-weighted-learning/)

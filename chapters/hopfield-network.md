@@ -171,3 +171,4 @@ own and letting the network find patterns in the memories.
 All in all, a Hopfield Network is a powerful tool for storing and retrieving
 memories, and it can assist in your everyday life by helping you remember
 important details with ease.
+[Hopfield Network](https://serp.ai/hopfield-network/)

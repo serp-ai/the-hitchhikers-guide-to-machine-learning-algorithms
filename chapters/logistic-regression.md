@@ -159,3 +159,4 @@ two distinct outcomes.
 
 So, in a way, logistic regression is like a helpful robot that can sort items
 quickly and accurately based on their features, just like our toddler selves!
+[Logistic Regression](https://serp.ai/logistic-regression/)

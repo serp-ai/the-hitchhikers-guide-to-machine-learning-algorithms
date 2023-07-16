@@ -104,3 +104,4 @@ based on prior observations. The algorithm only requires labeled data to learn
 from, therefore making it a supervised learning method.
 
   *[MCTS]: Monte Carlo Tree Search
+[Naive Bayes](https://serp.ai/naive-bayes/)

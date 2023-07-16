@@ -142,3 +142,4 @@ future sales. Essentially, any problem that involves large amounts of data and
 complex patterns can benefit from the use of PCR.
 
   *[MCTS]: Monte Carlo Tree Search
+[Principal Component Regression](https://serp.ai/principal-component-regression/)

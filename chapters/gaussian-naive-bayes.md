@@ -160,3 +160,4 @@ One way to think of it is like a chef who can identify the ingredients in a
 dish just by tasting it. The chef uses her knowledge of the flavor profiles of
 different ingredients and their likelihood of being used in certain dishes to
 make an educated guess.
+[Gaussian Naive Bayes](https://serp.ai/gaussian-naive-bayes/)

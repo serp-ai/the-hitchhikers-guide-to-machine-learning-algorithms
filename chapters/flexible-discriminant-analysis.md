@@ -170,3 +170,4 @@ Q: Can FDA be used for unsupervised learning?
 
 A: No, FDA is a supervised learning method and requires labeled data to train
 the model and make predictions.
+[Flexible Discriminant Analysis](https://serp.ai/flexible-discriminant-analysis/)

@@ -150,3 +150,4 @@ find a solution, just like how a team of experts may come together to solve a
 complex problem.
 
   *[MCTS]: Monte Carlo Tree Search
+[Random Forest](https://serp.ai/random-forest/)

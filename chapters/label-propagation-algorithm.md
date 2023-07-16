@@ -130,3 +130,4 @@ labels throughout the entire dataset.
 LPA is a type of graph-based algorithm that falls under the category of semi-
 supervised machine learning. It's a powerful tool that can help make sense of
 large, complex datasets where not all the data points are labeled.
+[Label Propagation Algorithm](https://serp.ai/label-propagation-algorithm/)

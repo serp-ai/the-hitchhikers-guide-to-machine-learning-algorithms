@@ -235,3 +235,4 @@ allowing it to calculate the optimal move sequence that yielded a winning
 strategy.
 
   *[MCTS]: Monte Carlo Tree Search
+[Monte Carlo Tree Search](https://serp.ai/monte-carlo-tree-search/)

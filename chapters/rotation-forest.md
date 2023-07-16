@@ -169,3 +169,4 @@ our models with the help of diversity and teamwork to create more accurate
 predictions.
 
   *[MCTS]: Monte Carlo Tree Search
+[Rotation Forest](https://serp.ai/rotation-forest/)

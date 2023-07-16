@@ -183,3 +183,4 @@ Regression problems. It is particularly useful when dealing with large amounts
 of data and a large number of potential variables to include in the model.
 
   *[MCTS]: Monte Carlo Tree Search
+[Stepwise Regression](https://serp.ai/stepwise-regression/)

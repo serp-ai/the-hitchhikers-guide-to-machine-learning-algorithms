@@ -198,3 +198,4 @@ guiding the machine to the right answer and keeping it on track of its goal.
 
   *[MCTS]: Monte Carlo Tree Search
   *[TD]: Temporal Difference
+[Td Lambda](https://serp.ai/td-lambda/)

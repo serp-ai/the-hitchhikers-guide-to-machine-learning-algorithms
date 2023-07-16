@@ -214,3 +214,4 @@ for finding optimal solutions to difficult problems in a variety of fields.
 
 If you're curious about how Genetic works in practice, there are many
 resources available online that showcase its use in various domains.
+[Genetic](https://serp.ai/genetic/)

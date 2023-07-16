@@ -167,3 +167,4 @@ into a more useful format.
 Curious and want to learn more? Keep reading!
 
   *[MCTS]: Monte Carlo Tree Search
+[Principal Component Analysis](https://serp.ai/principal-component-analysis/)

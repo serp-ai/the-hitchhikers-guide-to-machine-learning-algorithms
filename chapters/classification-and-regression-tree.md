@@ -161,3 +161,4 @@ customers are most likely to make a purchase.
 With CART, the possibilities are endless, and as more and more data becomes
 available, this algorithm will continue to be an important tool for making
 sense of it all.
+[Classification And Regression Tree](https://serp.ai/classification-and-regression-tree/)

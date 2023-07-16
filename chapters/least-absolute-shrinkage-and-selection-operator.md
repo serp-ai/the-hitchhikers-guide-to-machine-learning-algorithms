@@ -165,3 +165,4 @@ Some key takeaways:
   * LASSO is a machine learning method that performs both variable selection and regularization.
   * It helps us choose the most important variables while also preventing overfitting.
   * It's like a packing algorithm or picking players for a sports team - we want to choose the most valuable items or players while also keeping things efficient and manageable.
+[Least Absolute Shrinkage And Selection Operator](https://serp.ai/least-absolute-shrinkage-and-selection-operator/)

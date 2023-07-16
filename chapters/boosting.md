@@ -168,3 +168,4 @@ make better predictions on new data.
 So, in a nutshell, boosting is about combining the strengths of multiple
 models to create a stronger, more accurate model that can handle any
 challenge.
+[Boosting](https://serp.ai/boosting/)

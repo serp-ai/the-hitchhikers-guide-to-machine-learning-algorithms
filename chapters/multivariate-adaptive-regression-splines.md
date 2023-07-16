@@ -141,3 +141,4 @@ So, if you're interested in exploring the mysteries of data and discovering
 hidden patterns, MARS might just be the perfect algorithm for you!
 
   *[MCTS]: Monte Carlo Tree Search
+[Multivariate Adaptive Regression Splines](https://serp.ai/multivariate-adaptive-regression-splines/)

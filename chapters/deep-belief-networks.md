@@ -225,3 +225,4 @@ patterns and relationships in data without any prior knowledge or guidance.
 So next time you see a DBN in action, remember that it's like a team of
 detectives solving a mystery, with each layer of hidden variables uncovering
 more and more clues until the whole picture is revealed.
+[Deep Belief Networks](https://serp.ai/deep-belief-networks/)

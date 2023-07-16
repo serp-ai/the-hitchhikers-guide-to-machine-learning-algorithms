@@ -238,3 +238,4 @@ updates that could destabilize learning, making it more stable and robust than
 other policy optimization methods.
 
   *[MCTS]: Monte Carlo Tree Search
+[Proximal Policy Optimization](https://serp.ai/proximal-policy-optimization/)

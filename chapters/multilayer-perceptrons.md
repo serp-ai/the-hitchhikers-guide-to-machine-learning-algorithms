@@ -221,3 +221,4 @@ So next time you hear about the MLP, just think of it as a team of superheroes
 working tirelessly to make the world a better place.
 
   *[MCTS]: Monte Carlo Tree Search
+[Multilayer Perceptrons](https://serp.ai/multilayer-perceptrons/)

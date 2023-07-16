@@ -195,3 +195,4 @@ between neurons to solve the problem.
 In short, Back-Propagation is an algorithm used in artificial neural networks
 to identify and correct errors in the network's output. It is like a teacher
 grading homework, a chef adjusting seasoning, or a detective solving a crime.
+[Back Propagation](https://serp.ai/back-propagation/)

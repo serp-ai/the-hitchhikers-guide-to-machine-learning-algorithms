@@ -237,3 +237,4 @@ have a good understanding of reinforcement learning and neural networks.
 In short, DQN uses a neural network to help make optimal decisions in
 complicated situations by learning and approximating the value of each
 possible action.
+[Deep Q Network](https://serp.ai/deep-q-network/)

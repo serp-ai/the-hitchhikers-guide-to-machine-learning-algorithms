@@ -196,3 +196,4 @@ So, in simple terms, Nadam is an optimizer that helps machine learning
 algorithms find the best solution to a problem more quickly and efficiently.
 
   *[MCTS]: Monte Carlo Tree Search
+[Nadam](https://serp.ai/nadam/)

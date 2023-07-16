@@ -157,3 +157,4 @@ evaluate the results of any algorithm and make sure it's a good fit for our
 specific problem.
 
   *[MCTS]: Monte Carlo Tree Search
+[Quadratic Discriminant Analysis](https://serp.ai/quadratic-discriminant-analysis/)

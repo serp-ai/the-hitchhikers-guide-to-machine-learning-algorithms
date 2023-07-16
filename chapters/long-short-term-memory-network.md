@@ -171,3 +171,4 @@ TL;DR: LSTMs are neural networks that can remember things from the past and
 use that information to make smarter predictions about the future. They're
 great for handling sequences of data where the order matters, like sentences
 or songs.
+[Long Short Term Memory Network](https://serp.ai/long-short-term-memory-network/)

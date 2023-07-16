@@ -184,3 +184,4 @@ relationships within data. And it does it all without needing anyone to hold
 its hand.
 
 Now, if you'll excuse me, I'm off to find some itemsets!
+[Eclat](https://serp.ai/eclat/)

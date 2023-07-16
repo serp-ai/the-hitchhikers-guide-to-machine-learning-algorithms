@@ -139,3 +139,4 @@ helps to group together similar data points by analyzing the connectivity of
 the data through the eigenvectors of the Laplacian.
 
   *[MCTS]: Monte Carlo Tree Search
+[Spectral Clustering](https://serp.ai/spectral-clustering/)

@@ -133,3 +133,5 @@ Using this approach, Actor-Critic is able to learn from its mistakes and improve
 
 But instead of learning how to ride a bike, Actor-Critic is used in reinforcement learning to train an agent to make the best decisions in a given situation. The Actor decides what action to take, while the Critic evaluates the quality of that action and provides feedback for improvement. Over time, the agent learns from its mistakes and becomes better at making decisions.
 
+
+[Actor Critic](https://serp.ai/actor-critic/)

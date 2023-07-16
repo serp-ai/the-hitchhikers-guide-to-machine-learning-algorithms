@@ -156,3 +156,4 @@ Elastic Net finds the perfect balance between these two algorithms, allowing
 it to create a model that performs better than using Lasso or Ridge
 separately. It is like a musician finding the right balance between melody and
 lyrics in a song.
+[Elastic Net](https://serp.ai/elastic-net/)

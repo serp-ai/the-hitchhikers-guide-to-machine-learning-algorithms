@@ -158,3 +158,4 @@ research to find out which programming language and implementation is best for
 your particular problem. It's also important to have a solid understanding of
 how the algorithm works and what its limitations are, so that you can use it
 effectively and interpret the results correctly.
+[Least Angle Regression](https://serp.ai/least-angle-regression/)

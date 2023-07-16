@@ -176,3 +176,4 @@ students with limited information. By leveraging both labeled and unlabeled
 data, S3VM can perform better classification tasks.
 
   *[MCTS]: Monte Carlo Tree Search
+[Semi Supervised Support Vector Machines](https://serp.ai/semi-supervised-support-vector-machines/)

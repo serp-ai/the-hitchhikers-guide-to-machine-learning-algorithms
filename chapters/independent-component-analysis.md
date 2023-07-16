@@ -136,3 +136,4 @@ any human intervention or predefined labels to train the model.
 With ICA, we can isolate and extract valuable information from complex data
 sets, just like how we could pick out individual instruments from the music
 played by a band.
+[Independent Component Analysis](https://serp.ai/independent-component-analysis/)

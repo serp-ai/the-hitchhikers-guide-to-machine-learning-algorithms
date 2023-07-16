@@ -145,3 +145,4 @@ As a decision tree algorithm, ID3 is a supervised learning method, meaning it
 requires labeled examples to learn from. It is an effective method for
 classification problems, and has been widely used in various applications,
 such as in natural language processing and image recognition.
+[Iterative Dichotomiser 3](https://serp.ai/iterative-dichotomiser-3/)

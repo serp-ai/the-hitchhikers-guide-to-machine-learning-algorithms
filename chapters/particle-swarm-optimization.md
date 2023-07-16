@@ -160,3 +160,4 @@ you're an engineer or a data scientist, PSO might help you find the best
 solution to a complex problem.
 
   *[MCTS]: Monte Carlo Tree Search
+[Particle Swarm Optimization](https://serp.ai/particle-swarm-optimization/)

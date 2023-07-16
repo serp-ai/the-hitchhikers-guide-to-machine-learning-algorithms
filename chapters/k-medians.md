@@ -157,3 +157,4 @@ and refining until it gets as close as possible to the true average.
 Ultimately, k-Medians helps you make sense of large amounts of data by
 grouping together similar values in a way that's easy to interpret and
 understand.
+[K Medians](https://serp.ai/k-medians/)

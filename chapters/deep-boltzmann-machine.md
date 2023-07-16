@@ -210,3 +210,4 @@ you what the finished image looks like.
 
 So, in short, DBM is an AI that takes data and creates solutions to puzzles by
 finding the underlying patterns without being told what they are.
+[Deep Boltzmann Machine](https://serp.ai/deep-boltzmann-machine/)

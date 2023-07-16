@@ -154,3 +154,4 @@ like a friendly tour guide pointing out all the different types of trees in a
 forest.
 
 Try LOESS out on your own data to see what patterns and surprises it reveals!
+[Locally Estimated Scatterplot Smoothing](https://serp.ai/locally-estimated-scatterplot-smoothing/)

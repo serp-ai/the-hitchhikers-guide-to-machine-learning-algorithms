@@ -169,3 +169,4 @@ related set of data and use them to predict an outcome, like baking a cake
 with only the best sugars.
 
   *[MCTS]: Monte Carlo Tree Search
+[Partial Least Squares Regression](https://serp.ai/partial-least-squares-regression/)

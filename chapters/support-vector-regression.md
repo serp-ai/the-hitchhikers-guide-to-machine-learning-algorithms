@@ -144,3 +144,4 @@ In short, SVR is a powerful tool for building flexible, accurate prediction
 models that can adapt to the unique patterns in your data.
 
   *[MCTS]: Monte Carlo Tree Search
+[Support Vector Regression](https://serp.ai/support-vector-regression/)

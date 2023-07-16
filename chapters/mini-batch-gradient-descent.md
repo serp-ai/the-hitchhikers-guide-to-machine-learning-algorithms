@@ -195,3 +195,4 @@ the chance of overfitting, and speeds up the learning process.
 So, whether you're trying to get down a steep hill, make a delicious soup, or
 train a smarter model, Mini-Batch Gradient Descent is a useful tool to have in
 your optimization arsenal.
+[Mini Batch Gradient Descent](https://serp.ai/mini-batch-gradient-descent/)

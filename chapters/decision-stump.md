@@ -151,3 +151,4 @@ Type: Decision Tree
 Learning Methods:
 
   * Supervised Learning
+[Decision Stump](https://serp.ai/decision-stump/)

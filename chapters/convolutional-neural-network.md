@@ -204,3 +204,4 @@ recognition, autonomous vehicles, and many other fields.
 
 So, in short, a CNN is like a detective team that breaks down images into
 small parts and finds important patterns to solve complex problems.
+[Convolutional Neural Network](https://serp.ai/convolutional-neural-network/)

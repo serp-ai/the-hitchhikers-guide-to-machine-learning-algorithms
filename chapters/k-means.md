@@ -151,3 +151,4 @@ Despite its simplicity, the k-Means algorithm has shown to be a powerful tool
 for data analysis and has become one of the most popular clustering algorithms
 used in the fields of data mining, machine learning, and artificial
 intelligence.
+[K Means](https://serp.ai/k-means/)

@@ -175,3 +175,4 @@ tool in the world of AI and machine learning.
 
   *[MCTS]: Monte Carlo Tree Search
   *[TD]: Temporal Difference
+[Weighted Average](https://serp.ai/weighted-average/)

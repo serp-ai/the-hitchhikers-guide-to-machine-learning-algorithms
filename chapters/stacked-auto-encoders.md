@@ -208,3 +208,4 @@ machines learn more from complex data by breaking it down into smaller,
 manageable parts and analyzing each part in a team effort.
 
   *[MCTS]: Monte Carlo Tree Search
+[Stacked Auto Encoders](https://serp.ai/stacked-auto-encoders/)

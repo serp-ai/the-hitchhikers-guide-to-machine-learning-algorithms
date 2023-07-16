@@ -171,3 +171,4 @@ supervised learning and predict the category of new documents that you feed
 it.
 
   *[MCTS]: Monte Carlo Tree Search
+[Multinomial Naive Bayes](https://serp.ai/multinomial-naive-bayes/)

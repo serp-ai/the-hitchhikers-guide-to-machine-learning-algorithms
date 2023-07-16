@@ -157,3 +157,4 @@ which suspects to group together based on the evidence.
 In short, LDA helps us find the best combination of features to separate
 different groups or classes of objects or events, making analysis faster and
 more efficient.
+[Linear Discriminant Analysis](https://serp.ai/linear-discriminant-analysis/)

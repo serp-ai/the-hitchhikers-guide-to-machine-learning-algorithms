@@ -190,3 +190,4 @@ It's like searching for the best path in a maze, until you finally reach the
 end.
 
   *[MCTS]: Monte Carlo Tree Search
+[Simulated Annealing](https://serp.ai/simulated-annealing/)

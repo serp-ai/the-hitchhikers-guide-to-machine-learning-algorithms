@@ -158,3 +158,5 @@ about the data.
 So next time you're trying to organize a big group of people, think of
 Affinity Propagation and its "vote" system to help you group people together
 based on their similarities!
+
+[Affinity Propagation](https://serp.ai/affinity-propagation/)

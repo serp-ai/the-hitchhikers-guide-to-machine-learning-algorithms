@@ -216,3 +216,4 @@ Want to know more about optimization methods? Check out our other articles on
 the topic!
 
   *[MCTS]: Monte Carlo Tree Search
+[Stochastic Gradient Descent](https://serp.ai/stochastic-gradient-descent/)

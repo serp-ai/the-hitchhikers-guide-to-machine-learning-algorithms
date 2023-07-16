@@ -148,3 +148,4 @@ predictions.
 
 If you are interested in machine learning, AODE is a great example of how a
 computer can learn to make predictions based on data.
+[Averaged One Dependence Estimators](https://serp.ai/averaged-one-dependence-estimators/)

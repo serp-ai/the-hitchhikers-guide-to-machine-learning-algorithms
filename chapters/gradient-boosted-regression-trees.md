@@ -166,3 +166,4 @@ we would adjust our direction walking in the forest with a map.
 
 GBRT is a complex algorithm, but it has proven to be very powerful in solving
 real-world problems.
+[Gradient Boosted Regression Trees](https://serp.ai/gradient-boosted-regression-trees/)

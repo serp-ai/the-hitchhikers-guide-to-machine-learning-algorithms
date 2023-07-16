@@ -110,3 +110,5 @@ The name Adadelta originates from two parameters used in the algorithm - Ada (ad
 Adadelta uses two new concepts - root mean square (RMS) and an expiration parameter. The RMS factor helps to prevent oscillations in the movement of the optimizer, while the expiration parameter helps to resolve computation issues and ensures convergence.
 
 In simpler terms, Adadelta helps machine learning algorithms to optimize efficiently by adjusting the learning rate based on the previous gradients. It enables the algorithm to make smaller adjustments as it approaches the optimum solution and ultimately converges faster with less room for error.
+
+[Adadelta](https://serp.ai/adadelta/)

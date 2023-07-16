@@ -163,3 +163,4 @@ partially covered or had a blemish on it.
 
 In essence, LVQ is like having a personal fruit expert in your computer that
 can accurately classify any fruit that you throw at it!
+[Learning Vector Quantization](https://serp.ai/learning-vector-quantization/)

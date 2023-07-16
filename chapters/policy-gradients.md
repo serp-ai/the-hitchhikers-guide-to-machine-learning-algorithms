@@ -193,3 +193,4 @@ given situation, allowing it to perform complex tasks and achieve goals more
 efficiently.
 
   *[MCTS]: Monte Carlo Tree Search
+[Policy Gradients](https://serp.ai/policy-gradients/)

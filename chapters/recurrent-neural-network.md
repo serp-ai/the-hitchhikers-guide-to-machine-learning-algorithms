@@ -191,3 +191,4 @@ RNNs have many applications, from predicting stock prices to generating new
 text. They excel at tasks where context and the order of inputs matter.
 
   *[MCTS]: Monte Carlo Tree Search
+[Recurrent Neural Network](https://serp.ai/recurrent-neural-network/)

@@ -136,3 +136,4 @@ learning, which means it uses labeled data to train the model.
 By using GBM, artificial intelligence and machine learning engineers can
 create more accurate prediction models, which can be applied to a variety of
 problems.
+[Gradient Boosting Machines](https://serp.ai/gradient-boosting-machines/)

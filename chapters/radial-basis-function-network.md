@@ -215,3 +215,4 @@ different pieces of information by using a set of mathematical clues, with the
 end goal of making accurate predictions about new data.
 
   *[MCTS]: Monte Carlo Tree Search
+[Radial Basis Function Network](https://serp.ai/radial-basis-function-network/)

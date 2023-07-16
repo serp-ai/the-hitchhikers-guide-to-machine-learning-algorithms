@@ -161,3 +161,4 @@ make sense of a complex dataset, or just a curious person who wants to explore
 the world of AI, t-SNE is definitely worth checking out.
 
   *[MCTS]: Monte Carlo Tree Search
+[T Distributed Stochastic Neighbor Embedding](https://serp.ai/t-distributed-stochastic-neighbor-embedding/)

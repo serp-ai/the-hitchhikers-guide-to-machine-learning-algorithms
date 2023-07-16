@@ -165,3 +165,4 @@ understand complex data. Go ahead - put your detective hat on and start
 exploring!
 
   *[MCTS]: Monte Carlo Tree Search
+[Projection Pursuit](https://serp.ai/projection-pursuit/)

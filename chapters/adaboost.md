@@ -99,3 +99,5 @@ Similarly, AdaBoost is a meta-algorithm, meaning it can be paired with a variety
 AdaBoost is particularly useful in supervised learning, where a model is trained on a labeled dataset to make accurate predictions on new data. By adapting and boosting the performance of each model in the team, AdaBoost can ultimately create a more accurate and reliable prediction than any single model on its own.
 
 With AdaBoost in your corner, you can harness the power of multiple models to achieve exceptional results!
+
+[Adaboost](https://serp.ai/adaboost/)

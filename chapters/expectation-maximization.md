@@ -161,3 +161,4 @@ within complex data sets through guesswork and refinement.
 
 So, just like how a magician can pull off an impressive trick, EM can help us
 make sense of puzzling data.
+[Expectation Maximization](https://serp.ai/expectation-maximization/)

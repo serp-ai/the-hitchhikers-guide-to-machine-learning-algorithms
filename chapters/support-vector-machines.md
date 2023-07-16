@@ -159,3 +159,4 @@ margin between these groups, we can create a more accurate model for
 classification.
 
   *[MCTS]: Monte Carlo Tree Search
+[Support Vector Machines](https://serp.ai/support-vector-machines/)

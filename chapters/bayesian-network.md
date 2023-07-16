@@ -166,3 +166,4 @@ BN to analyze the variables that affect rainfall, such as temperature,
 humidity, and air pressure. By inputting this data into the BN model, you can
 make an informed prediction about whether it will rain based on the
 relationships between these variables.
+[Bayesian Network](https://serp.ai/bayesian-network/)

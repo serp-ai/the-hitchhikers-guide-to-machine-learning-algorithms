@@ -141,3 +141,4 @@ Key takeaways:
   * SOM is useful for data visualization, pattern recognition, and data compression.
 
   *[MCTS]: Monte Carlo Tree Search
+[Self Organizing Map](https://serp.ai/self-organizing-map/)

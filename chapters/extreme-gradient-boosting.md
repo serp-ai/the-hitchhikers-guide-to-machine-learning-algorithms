@@ -172,3 +172,4 @@ like a star athlete who consistently outperforms their competition.
 So, in short, XGBoost uses decision trees as its players and gradient boosting
 as its coach to create a strong, accurate prediction model that can take on
 any opponent.
+[Extreme Gradient Boosting](https://serp.ai/extreme-gradient-boosting/)

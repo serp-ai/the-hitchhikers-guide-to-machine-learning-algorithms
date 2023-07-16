@@ -179,3 +179,4 @@ also sensitive to the quality and quantity of the training data and can be
 prone to overfitting or underfitting if not properly tuned.
 
   *[MCTS]: Monte Carlo Tree Search
+[Perceptron](https://serp.ai/perceptron/)

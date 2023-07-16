@@ -152,3 +152,4 @@ machine learning.
 In short, kNN is like having a group of friends who can help you classify new
 objects based on their similarity to known objects. It's a simple and
 effective algorithm that is widely used in real-life scenarios.
+[K Nearest Neighbor](https://serp.ai/k-nearest-neighbor/)

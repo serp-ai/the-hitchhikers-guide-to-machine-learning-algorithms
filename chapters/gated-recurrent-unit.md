@@ -180,3 +180,4 @@ making them a versatile tool in any machine learning engineer's toolkit.
 So the next time you hear about a Gated Recurrent Unit, think of it like a
 music conductor for your data - orchestrating the flow of information and
 helping your neural network make sense of complex sequences.
+[Gated Recurrent Unit](https://serp.ai/gated-recurrent-unit/)

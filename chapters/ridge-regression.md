@@ -161,3 +161,4 @@ So next time you're pruning a bush or grading a student's work, think of how
 Ridge Regression is doing the same thing with your data.
 
   *[MCTS]: Monte Carlo Tree Search
+[Ridge Regression](https://serp.ai/ridge-regression/)

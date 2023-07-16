@@ -172,3 +172,4 @@ box.
 With its Bayesian approach, LDA is a powerful tool for understanding the
 underlying structure of large datasets, especially text data. It's often used
 for natural language processing, topic modeling, and document clustering.
+[Latent Dirichlet Allocation](https://serp.ai/latent-dirichlet-allocation/)

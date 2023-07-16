@@ -153,3 +153,4 @@ to the best possible answer.
 CHAID is a type of Decision Tree, which is a way for computers to learn by
 example. It's a supervised learning technique because it needs examples of
 what you are looking for in order to find the answer.
+[Chi Squared Automatic Interaction Detection](https://serp.ai/chi-squared-automatic-interaction-detection/)

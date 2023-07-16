@@ -149,3 +149,4 @@ out some resources online or try implementing it yourself with some sample
 code!
 
   *[MCTS]: Monte Carlo Tree Search
+[Rmsprop](https://serp.ai/rmsprop/)

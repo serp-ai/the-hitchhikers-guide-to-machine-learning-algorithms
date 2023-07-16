@@ -217,3 +217,4 @@ researchers alike.
 
 So next time you see peanut butter and jelly displayed near the bread in a
 grocery store, you'll know Apriori had something to do with it!
+[Apriori](https://serp.ai/apriori/)

@@ -157,3 +157,4 @@ By using temporal difference learning methods, Q-learning can continually
 update its decision-making process and make better choices over time.
 
   *[MCTS]: Monte Carlo Tree Search
+[Q Learning](https://serp.ai/q-learning/)

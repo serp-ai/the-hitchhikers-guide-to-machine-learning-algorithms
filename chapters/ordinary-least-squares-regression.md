@@ -160,3 +160,4 @@ So, OLSR is like a recipe calculator for finding the best fit line that can
 help us predict future outcomes based on past data.
 
   *[MCTS]: Monte Carlo Tree Search
+[Ordinary Least Squares Regression](https://serp.ai/ordinary-least-squares-regression/)

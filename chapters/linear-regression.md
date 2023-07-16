@@ -173,3 +173,4 @@ Linear Regression assumes a linear relationship between the independent and
 dependent variables, which might not hold in some cases. It also assumes that
 the data is normally distributed and there are no outliers. This makes it less
 suitable for complex data sets that have non-linear relationships.
+[Linear Regression](https://serp.ai/linear-regression/)

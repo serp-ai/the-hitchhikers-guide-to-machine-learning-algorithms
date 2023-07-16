@@ -168,3 +168,4 @@ With MDA, engineers can create models that quickly and accurately classify new
 data based on the characteristics that are most important for distinguishing
 between different categories. This makes it a valuable tool for a wide range
 of applications.
+[Mixture Discriminant Analysis](https://serp.ai/mixture-discriminant-analysis/)

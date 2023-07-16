@@ -155,3 +155,4 @@ patterns and relationships within the data itself. So go ahead and give it a
 try!
 
   *[MCTS]: Monte Carlo Tree Search
+[Multidimensional Scaling](https://serp.ai/multidimensional-scaling/)

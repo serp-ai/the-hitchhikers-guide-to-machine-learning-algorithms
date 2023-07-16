@@ -154,3 +154,4 @@ So, if you're looking for a way to make sense of a massive dataset that seems
 overwhelming, Sammon Mapping might just be the solution you need!
 
   *[MCTS]: Monte Carlo Tree Search
+[Sammon Mapping](https://serp.ai/sammon-mapping/)
