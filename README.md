@@ -46,6 +46,7 @@ Whether you are looking to expand your knowledge, seeking inspiration, or in pur
 
 Don't forget to join our online community to stay up to date with with artificial intelligence, machine learning & data science:
 
+* Github @ [github.com/serp-ai](https://github.com/serp-ai/the-hitchhikers-guide-to-machine-learning-algorithms)
 * Discord @ [serp.ly/@serpai/discord](https://serp.ly/@serpai/discord)
 
 Cheers & stay funky my friends.
