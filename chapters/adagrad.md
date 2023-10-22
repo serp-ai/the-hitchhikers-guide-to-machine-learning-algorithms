@@ -4,6 +4,8 @@
 
 Adagrad is an **optimization** algorithm that belongs to the family of adaptive gradient methods. It is designed with parameter-specific learning rates, which are adapted relative to how frequently a parameter gets updated during training. This means that parameters with smaller updates receive a higher learning rate, while parameters with larger updates receive a lower learning rate. Adagrad is widely used in machine learning tasks, particularly in deep learning.
 
+{% embed url="https://youtu.be/9Sft0zsV2Iw?si=2WVA55zeFlSG3tOq" %}
+
 ### Adagrad: Introduction
 
 | Domains          | Learning Methods | Type         |
