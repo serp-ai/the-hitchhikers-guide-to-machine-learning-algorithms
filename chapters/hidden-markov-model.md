@@ -1,13 +1,15 @@
-# Understanding Hidden Markov Models (HMM): Definition, Explanations, Examples & Code
+# Hidden Markov Models
 
 Hidden Markov Models (HMM) is a powerful probabilistic model used in machine learning and signal processing. It is particularly useful for modeling sequential data where the underlying states are not directly observable but can be inferred from the observed data.
 
+{% embed url="https://youtu.be/pvyI1R5v1MA?si=mEllPbh34_cNFHXg" %}
+
 ## HMM: Introduction
 
-Domains | Learning Methods | Type  
----|---|---  
-Machine Learning | Unsupervised | Probabilistic Model  
-  
+| Domains          | Learning Methods | Type                |
+| ---------------- | ---------------- | ------------------- |
+| Machine Learning | Unsupervised     | Probabilistic Model |
+
 The **Hidden Markov Model** (HMM) is a type of probabilistic model used for modeling sequential data. It falls under the category of unsupervised learning methods as it operates on unlabelled data to learn the underlying states and their transitions.
 
 ## HMM: Use Cases & Examples
@@ -15,13 +17,9 @@ The **Hidden Markov Model** (HMM) is a type of probabilistic model used for mode
 Hidden Markov Models have found applications in various domains due to their ability to model sequential data. Here are a few examples:
 
 1. **Speech Recognition:** HMMs are widely used in speech recognition systems. They can model the relationship between phonemes and observed acoustic features, enabling accurate recognition of spoken words.
-
 2. **Natural Language Processing:** HMMs are employed in various natural language processing tasks, such as part-of-speech tagging, named entity recognition, and text segmentation. HMMs capture the underlying structure of language by modeling the transitions between different linguistic states.
-
 3. **Gesture Recognition:** HMMs can be utilized to recognize and classify human gestures from video sequences. By modeling the sequential nature of gestures, HMMs enable accurate recognition and interpretation of complex movements.
-
 4. **Financial Markets:** HMMs are employed in financial modeling and forecasting tasks. They can capture the hidden states and transitions in market conditions, allowing traders to make informed decisions based on the observed data.
-
 5. **Bioinformatics:** HMMs are widely used in bioinformatics for tasks such as gene finding, protein structure prediction, and sequence alignment. HMMs can model the hidden states and transitions in biological sequences, leading to valuable insights in genomics and proteomics.
 
 ## Getting Started
@@ -30,13 +28,10 @@ If you are interested in modeling sequential data and inferring hidden states, H
 
 The fundamental components of a Hidden Markov Model include:
 
-- **Hidden States:** These are the unobservable states that generate the observed data. For example, in speech recognition, the hidden states could represent different phonemes.
-
-- **Observations:** These are the observable data or features that provide information about the underlying hidden states. In speech recognition, the observations are the acoustic features extracted from the audio signal.
-
-- **State Transitions:** HMMs model the transitions between hidden states. Each hidden state has a probability distribution governing its transitions to other states.
-
-- **Emission Probabilities:** HMMs capture the relationship between hidden states and observed data through emission probabilities. Each hidden state has a probability distribution over the possible observations.
+* **Hidden States:** These are the unobservable states that generate the observed data. For example, in speech recognition, the hidden states could represent different phonemes.
+* **Observations:** These are the observable data or features that provide information about the underlying hidden states. In speech recognition, the observations are the acoustic features extracted from the audio signal.
+* **State Transitions:** HMMs model the transitions between hidden states. Each hidden state has a probability distribution governing its transitions to other states.
+* **Emission Probabilities:** HMMs capture the relationship between hidden states and observed data through emission probabilities. Each hidden state has a probability distribution over the possible observations.
 
 To work with HMMs, you will need to utilize libraries or implement the algorithms yourself. Here's an example code snippet in Python using the `hmmlearn` library to train a Hidden Markov Model:
 
