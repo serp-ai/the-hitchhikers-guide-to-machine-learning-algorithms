@@ -4,6 +4,8 @@
 
 AdaBoost is a machine learning meta-algorithm that falls under the category of ensemble methods. It can be used in conjunction with many other types of learning algorithms to improve performance. AdaBoost uses supervised learning methods to iteratively train a set of weak classifiers and combine them into a strong classifier.
 
+{% embed url="https://youtu.be/Hyha6_8iFLs?si=iXiRRFosDzPa8UYW" %}
+
 ### AdaBoost: Introduction
 
 | Domains          | Learning Methods | Type     |
