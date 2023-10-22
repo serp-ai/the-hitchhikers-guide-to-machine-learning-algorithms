@@ -4,6 +4,8 @@
 
 Adadelta is an optimization algorithm that falls under the category of learning methods in the field of machine learning. It is an extension and improvement of Adagrad that adapts learning rates based on a moving window of gradient updates.
 
+{% embed url="https://youtu.be/6SeWcugf80g?si=lgCU30xsqhNYcRLL" %}
+
 ### Adadelta: Introduction
 
 | Domains          | Learning Methods | Type         |
