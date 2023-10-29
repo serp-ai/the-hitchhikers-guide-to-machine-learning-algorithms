@@ -1,13 +1,15 @@
-# Understanding Reinforcement Learning (RL): Definition, Explanations, Examples & Code
+# Reinforcement Learning
 
 Reinforcement Learning (RL) is a machine learning algorithm that focuses on learning optimal decision-making policies through trial and error. It is a type of learning method that falls under the umbrella of **reinforcement learning**, a branch of machine learning.
 
+{% embed url="https://youtu.be/ZedHo4X1fVE?si=c2QqNiLTbNUt8ste" %}
+
 ## Reinforcement Learning: Introduction
 
-Domains | Learning Methods | Type  
----|---|---  
-Machine Learning | Reinforcement | Reinforcement Learning  
-  
+| Domains          | Learning Methods | Type                   |
+| ---------------- | ---------------- | ---------------------- |
+| Machine Learning | Reinforcement    | Reinforcement Learning |
+
 The **Reinforcement Learning** algorithm is a powerful method for learning optimal decision-making policies through trial and error. It falls under the category of **reinforcement learning** methods, which aim to train an agent to make sequential decisions in an environment to maximize a reward.
 
 ## Reinforcement Learning: Use Cases & Examples
@@ -15,13 +17,9 @@ The **Reinforcement Learning** algorithm is a powerful method for learning optim
 Reinforcement Learning (RL) finds application in various domains where decision-making in dynamic environments is essential. Here are a few examples of RL in action:
 
 1. **Game Playing:** RL has been successfully applied to game playing scenarios. For instance, the famous AlphaGo algorithm, developed by DeepMind, utilizes RL techniques to learn and play the ancient board game Go at a highly competitive level.
-
 2. **Robotics:** RL enables robots to learn how to perform complex tasks by interacting with their environment. Through continuous trial and error, robots can improve their actions and make decisions based on reward signals, leading to more efficient and adaptive behavior.
-
 3. **Autonomous Vehicles:** RL plays a crucial role in training autonomous vehicles to navigate complex traffic scenarios. RL algorithms can learn optimal driving policies by observing the environment, predicting possible outcomes, and receiving feedback on their driving decisions.
-
 4. **Recommendation Systems:** RL can be used to build personalized recommendation systems. By learning from user feedback, such as click-through rates or user ratings, RL algorithms can recommend relevant items or content based on individual preferences and maximize user satisfaction.
-
 5. **Inventory Management:** RL techniques can optimize inventory management by learning the optimal policies for replenishing stock. By considering factors like demand patterns, lead times, and inventory costs, RL algorithms can dynamically adjust the inventory levels to minimize costs and maximize customer satisfaction.
 
 These examples highlight just a few of the numerous real-world applications of RL. The algorithm's ability to learn from experience and adapt to changing environments makes it suitable for a wide range of decision-making tasks.
