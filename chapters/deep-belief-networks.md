@@ -4,7 +4,7 @@ Code
 
 Deep Belief Networks (DBN) is a type of deep learning algorithm that is widely used in artificial intelligence and machine learning. It is a generative graphical model with many layers of hidden causal variables, designed for unsupervised learning tasks. DBN is capable of learning rich and complex representations of data, making it well-suited for a variety of tasks in the field of AI.
 
-{% embed url="https://youtu.be/1rQFWbO1Gvo?si=Fg65FlGSKeO7D9Kl" %}
+{% embed url="https://youtu.be/CKETTm_zOfw?si=LoELixXidNlEhi8s" %}
 
 ## Deep Belief Networks: Introduction
 
