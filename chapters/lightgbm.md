@@ -2,7 +2,7 @@
 
 LightGBM is an algorithm under Microsoft's Distributed Machine Learning Toolkit. It is a gradient boosting framework that uses tree-based learning algorithms. It is an ensemble type algorithm that performs supervised learning. LightGBM is designed to be distributed and efficient, offering faster training speed and higher efficiency, lower memory usage, better accuracy, the ability to handle large-scale data, and supports parallel and GPU learning.
 
-{% embed url="https://youtu.be/Quz9GiDDGmU?si=aWL9uMM20LketLyM" %}
+{% embed url="https://youtu.be/gLegrc3BfAI?si=Nb1PDIpJCvOalkbt" %}
 
 ## LightGBM: Introduction
 
