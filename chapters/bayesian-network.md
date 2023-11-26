@@ -2,7 +2,7 @@
 
 The **Bayesian Network** (BN) is a type of **Bayesian** statistical model that represents a set of variables and their conditional dependencies via a directed acyclic graph. BN is a powerful tool in machine learning and artificial intelligence for modeling complex systems. In BN, variables are represented as nodes on a graph and the relationships between them are indicated by arrows connecting the nodes. BN is known for its ability to handle uncertain and incomplete data, making it useful in applications such as medical diagnosis and prediction. Learning methods in BN include supervised learning, where the model is trained on labeled data to make predictions on new, unseen data.
 
-{% embed url="https://youtu.be/sgmGpXIyoYk?si=LAKJiuzDqkX41kY4" %}
+{% embed url="https://youtu.be/30vvZRXmmFY?si=QiUsOEq3LBIVkJmL" %}
 
 ## Bayesian Network: Introduction
 
