@@ -4,7 +4,7 @@ Code
 
 Hierarchical Clustering is a **clustering** algorithm that seeks to build a hierarchy of clusters. It is commonly used in **unsupervised learning** where there is no predefined target variable. This method of cluster analysis groups similar data points into clusters based on their distance from each other. The clusters are then merged together to form larger clusters until all data points are in a single cluster. Hierarchical Clustering is a useful tool for identifying patterns and relationships within large datasets.
 
-{% embed url="https://youtu.be/Ntt9o3edMB8?si=hc5fQsHINLGM_mzn" %}
+{% embed url="https://youtu.be/n10tu5v6lNQ?si=kWJjXeQp9XL8B0a0" %}
 
 ## Hierarchical Clustering: Introduction
 
