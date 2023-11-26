@@ -4,7 +4,7 @@ Examples & Code
 
 The Flexible Discriminant Analysis (FDA), also known as FDA, is a dimensionality reduction algorithm that is a generalization of linear discriminant analysis. Unlike the traditional linear discriminant analysis, FDA uses non-linear combinations of predictors to achieve better classification accuracy. It falls under the category of supervised learning algorithms, where it requires labeled data to build a decision boundary that separates the classes in the dataset.
 
-{% embed url="https://youtu.be/UN6K8ZUsw2g?si=gK1D4JuVLa8QQ0JZ" %}
+{% embed url="https://youtu.be/eXmoe0nah_o?si=CzSCagQV-SkhlbRr" %}
 
 ## Flexible Discriminant Analysis: Introduction
 
