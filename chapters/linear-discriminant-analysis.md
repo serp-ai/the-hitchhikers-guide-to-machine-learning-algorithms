@@ -4,7 +4,7 @@ Examples & Code
 
 Linear Discriminant Analysis (LDA) is a dimensionality reduction method used in statistics, pattern recognition, and machine learning. It is a supervised learning method that aims to find a linear combination of features that can effectively separate two or more classes of objects or events. LDA is commonly used in various applications, such as image and speech recognition, bioinformatics, and data compression.
 
-{% embed url="https://youtu.be/yJjc388c3ek?si=D82RZeofVs0l8svt" %}
+{% embed url="https://youtu.be/oenKK1iXues?si=nMhEnGfTc5x6LtjX" %}
 
 ## Linear Discriminant Analysis: Introduction
 
