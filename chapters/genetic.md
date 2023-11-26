@@ -2,7 +2,7 @@
 
 The **Genetic** algorithm is a type of optimization algorithm that is inspired by the process of natural selection, and is considered a heuristic search and optimization method. It is a popular algorithm in the field of artificial intelligence and machine learning, and is used to solve a wide range of optimization problems. Genetic algorithms work by mimicking the process of natural selection, allowing for the fittest individuals to survive and reproduce, while less fit individuals die off. This process allows for the algorithm to converge on an optimal solution to a given problem.
 
-{% embed url="https://youtu.be/SrcbNDXeEjI?si=IbkMHSMX07XX2p0C" %}
+{% embed url="https://youtu.be/kMM1uSGD5LQ?si=1MBunIp23cu354iO" %}
 
 ## Genetic: Introduction
 
