@@ -2,7 +2,7 @@
 
 Linear Regression is a **Regression** algorithm used in **Supervised Learning**. It is a statistical model that predicts a dependent variable based on one or more independent variables.
 
-{% embed url="https://youtu.be/N2ITt_fiAxg?si=RUTqannoOgIL68vi" %}
+{% embed url="https://youtu.be/cs5gQGJ7WZ8?si=unne9nI8sEBOv96A" %}
 
 ## Linear Regression: Introduction
 
