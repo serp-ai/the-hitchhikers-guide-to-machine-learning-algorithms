@@ -2,7 +2,7 @@
 
 Apriori is an **association rule** algorithm used for **unsupervised learning**. It is designed for **frequent item set mining** and association rule learning over relational databases.
 
-{% embed url="https://youtu.be/4IQvue9AeEQ?si=WF8Od28UrcJdMj7j" %}
+{% embed url="https://youtu.be/LUAFOk_0A6M?si=ZkMiUUxHRDVMkKsA" %}
 
 ## Apriori: Introduction
 
