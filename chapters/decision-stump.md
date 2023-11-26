@@ -2,7 +2,7 @@
 
 The **Decision Stump** is a type of **Decision Tree** algorithm used in **Supervised Learning**. It is a one-level decision tree that is often used as a base classifier in many ensemble methods.
 
-{% embed url="https://youtu.be/1czz6FDc_nk?si=5pZTdUd9jH81cs2N" %}
+{% embed url="https://youtu.be/BgxyNApVxUc?si=FNH4fsVGTJbd7pwv" %}
 
 ## Decision Stump: Introduction
 
