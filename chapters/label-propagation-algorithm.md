@@ -4,7 +4,7 @@ Examples & Code
 
 The Label Propagation Algorithm (LPA) is a **graph-based** semi-supervised machine learning algorithm that assigns labels to previously unlabeled data points. LPA works by propagating labels from a subset of data points that are initially labeled to the unlabeled points. This is done throughout the course of the algorithm, with the labels being kept fixed unlike the closely related algorithm, label spreading. LPA is commonly used in various applications such as community detection and image segmentation.
 
-{% embed url="https://youtu.be/ViQXPE77eq0?si=ExJKE4JcdbOlDy1U" %}
+{% embed url="https://youtu.be/NZ_sLh4c-cM?si=cYAZpUkwWhcIBFvJ" %}
 
 ## Label Propagation Algorithm: Introduction
 
