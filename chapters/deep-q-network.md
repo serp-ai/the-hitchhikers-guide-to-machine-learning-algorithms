@@ -2,7 +2,7 @@
 
 A **Deep Q-Network (DQN)** is a type of _deep learning_ algorithm that approximates a state-value function in a _Q-Learning_ framework with a neural network. DQNs are primarily used in _reinforcement learning_ tasks.
 
-{% embed url="https://youtu.be/yIRpBo7mr7k?si=RfYqEd5h-Tq87fs9" %}
+{% embed url="https://youtu.be/JPhBJnAMfU0?si=ewfLoDS9ZBVwsB37" %}
 
 ## Deep Q-Network: Introduction
 
