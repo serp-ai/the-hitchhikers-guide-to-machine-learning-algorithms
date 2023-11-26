@@ -4,7 +4,7 @@ Explanations, Examples & Code
 
 Chi-squared Automatic Interaction Detection, commonly known as CHAID, is a decision tree technique that falls under the category of supervised learning. It is based on adjusted significance testing and is utilized to identify the most significant predictors of a particular outcome. This algorithm is a popular tool for data mining and statistical analysis, as it allows for the creation of a decision tree that can be easily interpreted and understood by individuals not well-versed in the field of artificial intelligence. As a type of decision tree, CHAID is commonly used in fields such as marketing, healthcare, and social sciences to identify patterns and relationships in data.
 
-{% embed url="https://youtu.be/FRQYqrVtvOU?si=LJbW1rGbBrowBxDM" %}
+{% embed url="https://youtu.be/nHT5UUYgCT0?si=12-bBr6Uz-PAI5Wx" %}
 
 ## Chi-squared Automatic Interaction Detection: Introduction
 
