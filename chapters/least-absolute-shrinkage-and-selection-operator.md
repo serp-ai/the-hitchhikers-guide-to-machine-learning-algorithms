@@ -4,7 +4,7 @@ Explanations, Examples & Code
 
 The Least Absolute Shrinkage and Selection Operator (LASSO), is a **regularization** method used in **supervised learning**. It performs both variable selection and regularization, making it a valuable tool for regression analysis. With LASSO, the algorithm shrinks the less important feature coefficients to zero, effectively selecting only the most relevant features in the model.
 
-{% embed url="https://youtu.be/tarsEVjU3wA?si=OAJkpApfuoYhW_e2" %}
+{% embed url="https://youtu.be/rWumueNbUBY?si=Y4-YuUKnEgp5pDWO" %}
 
 ## Least Absolute Shrinkage and Selection Operator: Introduction
 
