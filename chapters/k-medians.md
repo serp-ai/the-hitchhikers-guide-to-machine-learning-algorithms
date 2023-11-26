@@ -2,7 +2,7 @@
 
 The **k-Medians** algorithm is a **clustering** technique used in **unsupervised learning**. It is a partitioning method of cluster analysis that aims to partition _n_ observations into _k_ clusters based on their median values. Unlike k-Means, which uses the mean value of observations, k-Medians uses the median value of observations to define the center of a cluster. This algorithm is useful in situations where the mean value is not a good representation of the cluster center, such as in the presence of outliers or when dealing with non-numerical data.
 
-{% embed url="https://youtu.be/GLuc5ht2Uto?si=AbjCbn0LaFe1iGLe" %}
+{% embed url="https://youtu.be/EZQNfd6aOeQ?si=e91dVnNlcI3Jq8cj" %}
 
 ## k-Medians: Introduction
 
