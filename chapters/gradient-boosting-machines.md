@@ -4,7 +4,7 @@
 
 The Gradient Boosting Machines (GBM) is a powerful ensemble machine learning technique used for regression and classification problems. It produces a prediction model in the form of an ensemble of weak prediction models. GBM is a supervised learning method that has become a popular choice for predictive modeling thanks to its performance and flexibility.
 
-{% embed url="https://youtu.be/A4Af3qTfX2M?si=A3zbQm3hOFPPR0Lm" %}
+{% embed url="https://youtu.be/U-C3iKAw4A0?si=G-KTudO8RpGhegMw" %}
 
 ## Gradient Boosting Machines: Introduction
 
