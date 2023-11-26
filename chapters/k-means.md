@@ -2,7 +2,7 @@
 
 The **k-Means** algorithm is a method of vector quantization that is popular for cluster analysis in data mining. It is a _clustering_ algorithm based on _unsupervised learning_.
 
-{% embed url="https://youtu.be/UzqLnGW9wSM?si=lAXa552gWo6Nvmbc" %}
+{% embed url="https://youtu.be/-4q7lyo4ofo?si=ZCnPd39OZgPdSztE" %}
 
 ## k-Means: Introduction
 
