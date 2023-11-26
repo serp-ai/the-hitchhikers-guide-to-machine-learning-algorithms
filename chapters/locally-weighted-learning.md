@@ -4,7 +4,7 @@
 
 Locally Weighted Learning (LWL) is an instance-based supervised learning algorithm that uses nearest neighbors for predictions. It applies a weighting function that gives more influence to nearby points, making it useful for non- linear regression problems.
 
-{% embed url="https://youtu.be/PyVb7XKQ77k?si=Wc5cCMLuf-KdqAVh" %}
+{% embed url="https://youtu.be/N5faFI15SLk?si=QsIGw2GsXbIWJt8R" %}
 
 ## Locally Weighted Learning: Introduction
 
