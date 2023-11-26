@@ -4,7 +4,7 @@ Examples & Code
 
 Latent Dirichlet Allocation (LDA) is a **Bayesian** generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. It is an **unsupervised learning** algorithm that is used to find latent topics in a document corpus. LDA is widely used in natural language processing and information retrieval to discover the hidden semantic structure of large collections of text data.
 
-{% embed url="https://youtu.be/NthW3VxQGPo?si=XY5Lsj4v4_SajcOP" %}
+{% embed url="https://youtu.be/cLRR8j6h8VY?si=ycJuTQc28gjwdwgP" %}
 
 ## Latent Dirichlet Allocation: Introduction
 
