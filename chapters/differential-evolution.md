@@ -4,7 +4,7 @@ Code
 
 Differential Evolution is an optimization algorithm that aims to improve a candidate solution iteratively with respect to a defined quality measure. It belongs to the family of evolutionary algorithms and is widely used in various optimization problems, particularly in continuous and real-parameter optimization problems. Differential Evolution is a type of supervised learning method that works on the principle of natural selection, mutation, and reproduction.
 
-{% embed url="https://youtu.be/DoIK4uBA5ss?si=cEAf4uxQxbUbAXUe" %}
+{% embed url="https://youtu.be/VcSm_meFmcw?si=GwqEZtIT0XwcQ5uS" %}
 
 ## Differential Evolution: Introduction
 
