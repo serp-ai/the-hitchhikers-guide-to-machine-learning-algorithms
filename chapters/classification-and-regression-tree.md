@@ -4,7 +4,7 @@ Examples & Code
 
 Classification and Regression Tree, also known as CART, is an umbrella term used to refer to various types of decision tree algorithms. It belongs to the category of Decision Trees and is primarily used in Supervised Learning methods.
 
-{% embed url="https://youtu.be/TGqYfIZ1TS4?si=7H-yEYZivkWHsY0c" %}
+{% embed url="https://youtu.be/Xck-Rwn-Ddw?si=OTFOs0Ip706LhEhm" %}
 
 ## Classification and Regression Tree: Introduction
 
