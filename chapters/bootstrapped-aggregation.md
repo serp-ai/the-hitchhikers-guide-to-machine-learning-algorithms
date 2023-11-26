@@ -4,7 +4,7 @@ Code
 
 Bootstrapped Aggregation is an **ensemble** method in machine learning that improves stability and accuracy of machine learning algorithms used in statistical classification and regression. It is a **supervised learning** technique that builds multiple models on different subsets of the available data and then aggregates their predictions. This method is also known as **bagging** and is particularly useful when the base models have high variance, as it can reduce overfitting and improve the generalization performance.
 
-{% embed url="https://youtu.be/lZgMQIMvY94?si=LQgsT91yqiNM_RFE" %}
+{% embed url="https://youtu.be/vTIY22jGBF4?si=q2oZNQBq6QXpiDwM" %}
 
 ## Bootstrapped Aggregation: Introduction
 
