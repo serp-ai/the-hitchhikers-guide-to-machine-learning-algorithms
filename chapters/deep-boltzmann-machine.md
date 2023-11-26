@@ -4,7 +4,7 @@ Code
 
 The Deep Boltzmann Machine (DBM) is a type of artificial neural network that falls under the category of deep learning. It uses a generative stochastic model and is trained using unsupervised learning methods.
 
-{% embed url="https://youtu.be/5WmNJ8NIMkY?si=Rian8msKuSQQtgJl" %}
+{% embed url="https://youtu.be/uVbXfFcJoHw?si=N-JJcXy3sCHxXI6u" %}
 
 ## Deep Boltzmann Machine: Introduction
 
