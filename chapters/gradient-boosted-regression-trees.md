@@ -6,7 +6,7 @@ The Gradient Boosted Regression Trees (GBRT), also known as Gradient Boosting Ma
 
 This algorithm combines the predictions of multiple decision trees, where each subsequent tree improves the errors of the previous tree. The GBRT algorithm is a supervised learning method, where a model learns to predict an outcome variable from labeled training data.
 
-{% embed url="https://youtu.be/w6jKLENHHZQ?si=a834DwEmEpqQZ3u9" %}
+{% embed url="https://youtu.be/p61mS6ZauJc?si=wM85xTdzRzyJB7RT" %}
 
 ## Gradient Boosted Regression Trees: Introduction
 
