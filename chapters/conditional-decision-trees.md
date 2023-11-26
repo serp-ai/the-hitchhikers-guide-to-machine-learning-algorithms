@@ -4,7 +4,7 @@
 
 Conditional Decision Trees are a type of decision tree used in supervised and unsupervised learning. They are a tree-like model of decisions, where each node represents a feature, each link (branch) represents a decision rule, and each leaf represents an outcome.
 
-{% embed url="https://youtu.be/pL0h4JuB0wQ?si=7cMDNgC1isR_PgkX" %}
+{% embed url="https://youtu.be/qHVXyVyFPAg?si=mKLyGHXPie4Aw37o" %}
 
 ## Conditional Decision Trees: Introduction
 
