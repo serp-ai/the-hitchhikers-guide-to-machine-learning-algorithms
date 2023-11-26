@@ -4,7 +4,7 @@ Code
 
 Least-Angle Regression (LARS) is a **regularization** algorithm used for high- dimensional data in **supervised learning**. It is efficient and provides a complete piecewise linear solution path.
 
-{% embed url="https://youtu.be/9QpsDOfUDhU?si=iujT3mtL9Uw_RBiC" %}
+{% embed url="https://youtu.be/iUShMmlpu6c?si=Ku4uw5CsneD_Z4RW" %}
 
 ## Least-Angle Regression: Introduction
 
