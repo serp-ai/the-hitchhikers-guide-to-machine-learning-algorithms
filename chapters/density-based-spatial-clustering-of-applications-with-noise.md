@@ -4,7 +4,7 @@ Definition, Explanations, Examples & Code
 
 The Density-Based Spatial Clustering of Applications with Noise (DBSCAN) is a clustering algorithm used in unsupervised learning. It groups together points that are densely packed (i.e. points with many nearby neighbors) and marks points as outliers if they lie alone in low-density regions. DBSCAN is commonly used in machine learning and artificial intelligence for its ability to cluster data points without prior knowledge of the number of clusters present in the data.
 
-{% embed url="https://youtu.be/Ezi-_l4zkf4?si=B2Qc3TWk8LGTG75J" %}
+{% embed url="https://youtu.be/AWVflY2UiHY?si=nrV6SqOLDceBYfFK" %}
 
 ## Density-Based Spatial Clustering of Applications with Noise: Introduction
 
