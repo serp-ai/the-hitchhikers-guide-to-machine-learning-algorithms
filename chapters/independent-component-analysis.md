@@ -4,7 +4,7 @@ Examples & Code
 
 Independent Component Analysis (ICA), is a **dimensionality reduction** algorithm that is commonly used in signal processing. This computational method is **unsupervised** , and it works by separating a multivariate signal into additive subcomponents. ICA is used to identify the underlying sources of data, enabling the analysis of data that has been corrupted by noise or other distortions.
 
-{% embed url="https://youtu.be/jrEmX5IYB0Q?si=Hbx2rLYu8xJWvYb1" %}
+{% embed url="https://youtu.be/qrxgwRnkVyU?si=c42XMsaN81-4P3sq" %}
 
 ## Independent Component Analysis: Introduction
 
