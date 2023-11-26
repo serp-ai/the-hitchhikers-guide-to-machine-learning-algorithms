@@ -2,7 +2,7 @@
 
 The Hopfield Network is a type of artificial neural network that serves as content-addressable memory systems with binary threshold nodes. As a recurrent neural network, it has the ability to store and retrieve patterns in a non- destructive manner. The learning methods used in Hopfield Network include both supervised and unsupervised learning.
 
-{% embed url="https://youtu.be/4jUennpoO44?si=03cZ9ODzykBhsnjz" %}
+{% embed url="https://youtu.be/Fr0BuSLvOUU?si=UvBL8WSZor2-ImD5" %}
 
 ## Hopfield Network: Introduction
 
