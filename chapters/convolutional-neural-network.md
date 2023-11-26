@@ -4,7 +4,7 @@ Examples & Code
 
 Convolutional Neural Network (CNN), a class of deep neural networks, is widely used in pattern recognition and image processing tasks. CNNs can also be applied to any type of input that can be structured as a grid, such as audio spectrograms or time-series data. They are designed to automatically and adaptively learn spatial hierarchies of features from the input data. CNNs contain convolutional layers that filter inputs for useful information, reducing the number of parameters and making the network easier to train. As a type of deep learning, CNNs use supervised learning methods to train the model.
 
-{% embed url="https://youtu.be/ghZEHx3pqtA?si=PbjAuZBCLOhxwPT_" %}
+{% embed url="https://youtu.be/UJPvtBUDWSk?si=6qqK65nvlayAPiII" %}
 
 ## Convolutional Neural Network: Introduction
 
