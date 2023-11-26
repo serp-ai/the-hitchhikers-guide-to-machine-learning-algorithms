@@ -4,7 +4,7 @@
 
 XGBoost, short for **eXtreme Gradient Boosting** , is a popular machine learning algorithm that employs the gradient boosting framework. It leverages decision trees as base learners and combines them to produce a final, more robust prediction model. Renowned for its speed and performance, XGBoost is primarily used for supervised learning tasks such as regression and classification. It is classified as an **Ensemble** algorithm and uses **Supervised Learning** methods.
 
-{% embed url="https://youtu.be/MVS5YZDqzv8?si=HX664FJnF0axTJuU" %}
+{% embed url="https://youtu.be/I1os9n0WSaM?si=Xjlw_MQcZk1GStLH" %}
 
 ## eXtreme Gradient Boosting: Introduction
 
