@@ -2,7 +2,7 @@
 
 The **Logistic Regression** algorithm is a type of statistical model used in **Regression** problems for binary classification. It is a **supervised learning** method that models the relationship between the categorical dependent variable and one or more independent variables. It is widely used in various fields such as finance, healthcare, and marketing.
 
-{% embed url="https://youtu.be/B8W0k5O58Zw?si=HQh8DdA_NfpfiSvT" %}
+{% embed url="https://youtu.be/geHDTfSYFD4?si=k7sC-zpWLFHNeo0y" %}
 
 ## Logistic Regression: Introduction
 
