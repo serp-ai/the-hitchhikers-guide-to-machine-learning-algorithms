@@ -2,7 +2,7 @@
 
 Eclat is an **Association Rule** algorithm designed for **Unsupervised Learning**. It is a fast implementation of the standard level-wise breadth first search strategy for frequent itemset mining.
 
-{% embed url="https://youtu.be/bb87wjYf8os?si=zR2qAzqqEF2uqYe-" %}
+{% embed url="https://youtu.be/Os8XedP7ZNc?si=1OtMnQKUIPQFlEjg" %}
 
 ## Eclat: Introduction
 
