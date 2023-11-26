@@ -2,7 +2,7 @@
 
 Isolation Forest is an **unsupervised learning algorithm** for **anomaly detection** that works on the principle of **isolating anomalies**. It is an **ensemble** type algorithm, which means it combines multiple models to improve performance.
 
-{% embed url="https://youtu.be/uh9m0UwIKW0?si=CyIaqcA1F9wOl4Wx" %}
+{% embed url="https://youtu.be/WGAQ74oYQVU?si=XHKyfW_JdwvfHUx6" %}
 
 ## Isolation Forest: Introduction
 
