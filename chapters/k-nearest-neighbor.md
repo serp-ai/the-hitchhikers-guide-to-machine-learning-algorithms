@@ -2,7 +2,7 @@
 
 The k-Nearest Neighbor (kNN) algorithm is a simple instance-based algorithm used for both supervised and unsupervised learning. It stores all the available cases and classifies new cases based on a similarity measure. The algorithm is named k-Nearest Neighbor because classification is based on the k-nearest neighbors in the training set. kNN is a type of lazy learning algorithm, meaning that it doesn't have a model to train but rather uses the whole dataset for training. The algorithm can be used for classification, regression, and clustering problems.
 
-{% embed url="https://youtu.be/dngifHVKWmQ?si=NJWuX75bIHD61PoC" %}
+{% embed url="https://youtu.be/IMW0Vp8AFHY?si=ukaIxfWh49XXlCSd" %}
 
 ## k-Nearest Neighbor: Introduction
 
