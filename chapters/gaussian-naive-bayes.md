@@ -4,7 +4,7 @@ Code
 
 Gaussian Naive Bayes is a variant of Naive Bayes that assumes that the likelihood of the features is Gaussian. It falls under the Bayesian type of algorithms and is used for Supervised Learning.
 
-{% embed url="https://youtu.be/PVAOCfQsoII?si=6LJ8j6cqn9Hb_yIC" %}
+{% embed url="https://youtu.be/GWuhmPh71K8?si=yTOwZwtlAzWzjZ9G" %}
 
 ## Gaussian Naive Bayes: Introduction
 
