@@ -4,7 +4,7 @@ Code
 
 Expectation Maximization (EM) is a popular statistical technique used for finding maximum likelihood estimates of parameters in probabilistic models. This algorithm is particularly useful in cases where the model depends on unobserved latent variables. EM falls under the clustering category and is commonly used as an unsupervised learning method.
 
-{% embed url="https://youtu.be/QONSf51QKu4?si=dcjeNlFCK4iGPD_N" %}
+{% embed url="https://youtu.be/ftM_Gwgd_e4?si=EUIAFIiD0qW1NwdC" %}
 
 ## Expectation Maximization: Introduction
 
