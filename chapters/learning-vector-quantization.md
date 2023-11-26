@@ -4,7 +4,7 @@ Examples & Code
 
 The Learning Vector Quantization (LVQ) algorithm is a prototype-based supervised classification algorithm. It falls under the category of instance- based machine learning algorithms and operates by classifying input data based on their similarity to previously seen data. LVQ relies on supervised learning, where a training dataset with known class labels is used to train the algorithm.
 
-{% embed url="https://youtu.be/ZPw8lxXo4_I?si=p_KjDWm-dfMU5uxn" %}
+{% embed url="https://youtu.be/Iv74yWosNZI?si=21m1Nqt9-KqmSRVA" %}
 
 ## Learning Vector Quantization: Introduction
 
