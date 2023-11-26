@@ -2,7 +2,7 @@
 
 Developed by Yandex, **CatBoost** (short for "Category" and "Boosting") is a **machine learning algorithm** that uses gradient boosting on decision trees. It is specifically designed to work effectively with categorical data by transforming categories into numbers in a way that doesn't impose arbitrary ordinality. CatBoost is an **ensemble** algorithm and utilizes **supervised learning** methods.
 
-{% embed url="https://youtu.be/21sWLZ9qzqQ?si=c0PayPpR0V7ZNHL3" %}
+{% embed url="https://youtu.be/Iq6NR-_yyBM?si=NC-DWz5pbyQ99DBx" %}
 
 ## CatBoost: Introduction
 
