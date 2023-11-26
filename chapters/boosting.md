@@ -2,7 +2,7 @@
 
 Boosting is a machine learning ensemble meta-algorithm that falls under the category of ensemble learning methods and is mainly used to reduce bias and variance in supervised learning.
 
-{% embed url="https://youtu.be/ScJKAlPmDpA?si=53juExmUG9ScLzmb" %}
+{% embed url="https://youtu.be/hvXkaIxkZvQ?si=-8RIyNZM5XddKNz1" %}
 
 ## Boosting: Introduction
 
