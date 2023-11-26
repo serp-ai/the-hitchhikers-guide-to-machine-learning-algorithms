@@ -2,7 +2,7 @@
 
 Gradient Descent is a first-order iterative **optimization** algorithm used to find a local minimum of a differentiable function. It is one of the most popular algorithms for machine learning and is used in a wide variety of applications. Gradient Descent belongs to the broad class of **learning methods** that are used to optimize the parameters of models.
 
-{% embed url="https://youtu.be/jSlRZ6rC-G4?si=q2X3V321YLlnG3Vi" %}
+{% embed url="https://youtu.be/gt71EOTCLUc?si=zAWR5SHfHC7G7rwc" %}
 
 ## Gradient Descent: Introduction
 
