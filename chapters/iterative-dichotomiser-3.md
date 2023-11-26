@@ -4,7 +4,7 @@ Code
 
 The Iterative Dichotomiser 3 (ID3) is a decision tree algorithm invented by Ross Quinlan used to generate a decision tree from a dataset. It is a type of supervised learning method, where the algorithm learns from a labeled dataset and creates a tree-like model of decisions and their possible consequences. The ID3 algorithm is widely used in machine learning and data mining for classification problems.
 
-{% embed url="https://youtu.be/BrverLEXcio?si=UUCaPunUVCNrIGXY" %}
+{% embed url="https://youtu.be/W4J5VTIbOdQ?si=crC33zksIf0saIzR" %}
 
 ## Iterative Dichotomiser 3: Introduction
 
