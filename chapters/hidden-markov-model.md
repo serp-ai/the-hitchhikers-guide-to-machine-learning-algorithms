@@ -2,7 +2,7 @@
 
 Hidden Markov Models (HMM) is a powerful probabilistic model used in machine learning and signal processing. It is particularly useful for modeling sequential data where the underlying states are not directly observable but can be inferred from the observed data.
 
-{% embed url="https://youtu.be/pvyI1R5v1MA?si=mEllPbh34_cNFHXg" %}
+{% embed url="https://youtu.be/5O56ZdvlTZg?si=Q8zMaLgeTmFaLIWb" %}
 
 ## HMM: Introduction
 
