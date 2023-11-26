@@ -4,7 +4,7 @@ Explanations, Examples & Code
 
 Locally Estimated Scatterplot Smoothing (LOESS) is a regression algorithm that uses local fitting to fit a regression surface to data. It is a supervised learning method that is commonly used in statistics and machine learning. LOESS works by fitting a polynomial function to a small subset of the data, known as a neighborhood, and then using this function to predict the output for a new input. This process is repeated for each point in the dataset, resulting in a smooth curve that represents the underlying relationship between the input and output variables.
 
-{% embed url="https://youtu.be/_KWj2zlDQMU?si=iMD9e5VPiwoZ67XA" %}
+{% embed url="https://youtu.be/yhWaxtuUrEk?si=pjFeFZ4Kl5NceLZY" %}
 
 ## Locally Estimated Scatterplot Smoothing: Introduction
 
