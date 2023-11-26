@@ -11,7 +11,7 @@ Learning Methods:
 * Supervised Learning
 * Unsupervised Learning
 
-{% embed url="https://youtu.be/I49ukBdpmY8?si=aiKhyGNtwQEkO4mE" %}
+{% embed url="https://youtu.be/7T3bpBTJJUA?si=XpdAwlxCPnEukM9U" %}
 
 ## Gated Recurrent Unit: Introduction
 
