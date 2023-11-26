@@ -2,7 +2,7 @@
 
 The **Label Spreading** algorithm is a graph-based semi-supervised learning method that builds a similarity graph based on the distance between data points. The algorithm then propagates labels throughout the graph and uses this information to classify unlabeled data points.
 
-{% embed url="https://youtu.be/PbakREeEi7k?si=goGPGIdTEmhyr14j" %}
+{% embed url="https://youtu.be/zaI7VmgmKFw?si=YYb_WtHHLyEZsasT" %}
 
 ## Label Spreading: Introduction
 
