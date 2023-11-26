@@ -2,7 +2,7 @@
 
 Elastic Net is a **regularization** algorithm that is used in **supervised learning**. It is a powerful and efficient method that linearly combines the L1 and L2 penalties of the Lasso and Ridge methods. This combination allows for both automatic feature selection and regularization, making it particularly useful for high-dimensional datasets with collinear features.
 
-{% embed url="https://youtu.be/CUZu_aN34Os?si=eBolRAl8QGS3gaBe" %}
+{% embed url="https://youtu.be/I7mw85VkcAk?si=PtrBYl7T5GJ7egHK" %}
 
 ## Elastic Net: Introduction
 
