@@ -2,7 +2,7 @@
 
 Reinforcement Learning (RL) is a machine learning algorithm that focuses on learning optimal decision-making policies through trial and error. It is a type of learning method that falls under the umbrella of **reinforcement learning**, a branch of machine learning.
 
-{% embed url="https://youtu.be/ZedHo4X1fVE?si=c2QqNiLTbNUt8ste" %}
+{% embed url="https://youtu.be/YpV_TwBPTWY?si=97v9vVFZskVk-Elr" %}
 
 ## Reinforcement Learning: Introduction
 
