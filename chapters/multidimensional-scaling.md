@@ -4,7 +4,7 @@ Code
 
 Multidimensional Scaling ( **MDS** ) is a dimensionality reduction technique used in unsupervised learning. It is a means of visualizing the level of similarity of individual cases of a dataset in a low-dimensional space.
 
-{% embed url="https://youtu.be/GsnZGBN8qJI?si=EHNUhYzQ5F_QNWkC" %}
+{% embed url="https://youtu.be/MBYPR1IXJxk?si=yV1AEHm5xz1v1w4O" %}
 
 ## Multidimensional Scaling: Introduction
 
