@@ -4,7 +4,7 @@ Code
 
 Stacked Generalization is an **ensemble** learning method used in **supervised learning**. It is designed to reduce the biases of estimators and is accomplished by combining them.
 
-{% embed url="https://youtu.be/_5leKRb1fZg?si=H2PDfmfj9IqqQKFf" %}
+{% embed url="https://youtu.be/9rXrnrrMaJw?si=ZY4_G7Z6Y-9_H85x" %}
 
 ## Stacked Generalization: Introduction
 
