@@ -4,7 +4,7 @@ Examples & Code
 
 Principal Component Regression (PCR) is a **dimensionality reduction** technique that combines **Principal Component Analysis (PCA)** and regression. It first extracts the principal components of the predictors and then performs a linear regression on these components. PCR is a **supervised learning** method that can be used to improve the performance of regression models by reducing the number of predictors and removing multicollinearity.
 
-{% embed url="https://youtu.be/4G4SaP5F660?si=4MrHoo6QahJxWgij" %}
+{% embed url="https://youtu.be/iZFvkHuwd0I?si=cxcybnYELoIozvgN" %}
 
 ## Principal Component Regression: Introduction
 
