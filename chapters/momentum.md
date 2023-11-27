@@ -2,7 +2,7 @@
 
 Momentum is an optimization method used in machine learning. It helps accelerate gradient vectors in the right directions, leading to faster convergence in optimization. It is a type of optimization and falls under the category of learning methods.
 
-{% embed url="https://youtu.be/ELurRcRqAk4?si=-i0VDtDGgOkgYEIL" %}
+{% embed url="https://youtu.be/7btvplng-zY?si=J2MJqt0p39olM419" %}
 
 ## Momentum: Introduction
 
