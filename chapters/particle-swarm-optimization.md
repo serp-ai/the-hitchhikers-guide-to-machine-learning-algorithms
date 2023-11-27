@@ -4,7 +4,7 @@ Examples & Code
 
 Particle Swarm Optimization (PSO) is an **optimization** algorithm inspired by the social behavior of birds and fish. It operates by initializing a swarm of particles in a search space, where each particle represents a potential solution. The particles move in the search space, guided by the best position found by the swarm and their own best position, ultimately converging towards the optimal solution. PSO is a popular algorithm in the field of artificial intelligence and machine learning.
 
-{% embed url="https://youtu.be/UTCAobzf37Q?si=cDOBwTfdoGqxk_1T" %}
+{% embed url="https://youtu.be/oF8TNyFPEOU?si=y93mwQFrZYa63OC-" %}
 
 ## Particle Swarm Optimization: Introduction
 
