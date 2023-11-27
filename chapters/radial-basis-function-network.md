@@ -4,7 +4,7 @@ Examples & Code
 
 The Radial Basis Function Network (RBFN) is a type of Artificial Neural Network that uses radial basis functions as activation functions. It is a supervised learning algorithm, which means that it requires input and output data to train the network. The RBFN is known for its ability to approximate any function to arbitrary levels of accuracy and is commonly used for function approximation, classification, and time-series prediction tasks.
 
-{% embed url="https://youtu.be/mmmjXevzZm4?si=-gixPQ_2H6BzM617" %}
+{% embed url="https://youtu.be/0L8Su5lZ9Gk?si=7tVFvuBNvzdRveYw" %}
 
 ## Radial Basis Function Network: Introduction
 
