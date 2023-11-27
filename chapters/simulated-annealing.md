@@ -2,7 +2,7 @@
 
 Simulated Annealing is an optimization algorithm inspired by the annealing process in metallurgy, which involves heating and controlled cooling of a material. It is used to find the global optimum in a large search space. It uses a random search strategy that accepts new solutions, even those worse than the current solution, based on a probability that decreases as the metaphorical 'temperature' decreases. This ability to accept worse solutions occasionally can help the algorithm escape local minima and move towards finding a global minimum.
 
-{% embed url="https://youtu.be/9A8E8fGp0nw?si=wWKREM1TGLhCDNAs" %}
+{% embed url="https://youtu.be/_evyLtGIZ5k?si=IWdbUCziFDiusQtL" %}
 
 ## Simulated Annealing: Introduction
 
