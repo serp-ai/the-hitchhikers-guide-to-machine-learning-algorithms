@@ -2,7 +2,7 @@
 
 The Self-Organizing Map (SOM), also known as Kohonen map, is a type of artificial neural network trained using unsupervised learning to produce low dimensional representation of the input space. It is an instance-based algorithm that falls into the category of unsupervised learning methods, where the network learns from unlabeled data. The SOM algorithm is commonly used for tasks such as data visualization, clustering, and feature extraction.
 
-{% embed url="https://youtu.be/VzXcYwc4A6Q?si=wVe0S4H1csk1qtnR" %}
+{% embed url="https://youtu.be/aLSbBL4gza0?si=1JVQXyat2-t8yf-e" %}
 
 ## Self-Organizing Map: Introduction
 
