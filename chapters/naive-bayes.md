@@ -2,7 +2,7 @@
 
 Naive Bayes is a **Bayesian** algorithm used in **supervised learning** to classify data. It is a simple probabilistic classifier that applies Bayes' theorem with strong independence assumptions between the features.
 
-{% embed url="https://youtu.be/RpD-4cN7W-E?si=NC1vu6DK7ky7mEUE" %}
+{% embed url="https://youtu.be/Rk-3XCsMXIA?si=e4CVhYrQri60q7Cu" %}
 
 ## Naive Bayes: Introduction
 
