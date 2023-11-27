@@ -2,7 +2,7 @@
 
 The Perceptron is a type of **Artificial Neural Network** that operates as a linear classifier. It makes its predictions based on a linear predictor function combining a set of weights with the feature vector. This algorithm falls under the category of **Supervised Learning** methods.
 
-{% embed url="https://youtu.be/7LfiSqMmQ8I?si=iGF7q_kz_SXp7crk" %}
+{% embed url="https://youtu.be/gdL17NZG6fk?si=okLTYp8dU6Jtbt5d" %}
 
 ## Perceptron: Introduction
 
