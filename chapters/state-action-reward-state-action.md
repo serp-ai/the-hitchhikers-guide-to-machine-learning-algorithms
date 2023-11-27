@@ -4,7 +4,7 @@ Examples & Code
 
 SARSA (State-Action-Reward-State-Action) is a temporal difference on-policy algorithm used in reinforcement learning to train a Markov decision process model on a new policy. This algorithm falls under the category of reinforcement learning, which focuses on how an agent should take actions in an environment to maximize a cumulative reward signal.
 
-{% embed url="https://youtu.be/cvrCNpe3BuE?si=2kZNsSUfWmYWW7GF" %}
+{% embed url="https://youtu.be/u-zOVFvyHPc?si=kfZPg3ZpFpYE-k6X" %}
 
 ## State-Action-Reward-State-Action: Introduction
 
