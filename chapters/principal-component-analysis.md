@@ -4,7 +4,7 @@ Examples & Code
 
 Principal Component Analysis ( **PCA** ) is a type of dimensionality reduction technique in machine learning that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. It is an unsupervised learning method commonly used in exploratory data analysis and data compression.
 
-{% embed url="https://youtu.be/KOajoQe1LMM?si=kl11MMP4sczy7E_L" %}
+{% embed url="https://youtu.be/FcRWtUjKbAg?si=OJMnyrrAc1ZOJ6HI" %}
 
 ## Principal Component Analysis: Introduction
 
