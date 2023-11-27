@@ -4,7 +4,7 @@ Explanations, Examples & Code
 
 Semi-Supervised Support Vector Machines (S3VM) is an extension of Support Vector Machines (SVM) for semi-supervised learning. It is an instance-based algorithm that makes use of a large amount of unlabelled data and a small amount of labelled data to perform classification tasks. The aim is to leverage the unlabelled data to improve the decision boundary constructed from the labelled data alone, which makes this algorithm especially useful when labelled data is scarce or expensive to obtain. S3VM uses Semi-Supervised Learning as its learning method.
 
-{% embed url="https://youtu.be/_S1-sJfQ65E?si=4a5V_d4LDpKv3TRe" %}
+{% embed url="https://youtu.be/zy6TzT2kQhs?si=E3p9VwB17PwYuEOg" %}
 
 ## Semi-Supervised Support Vector Machines: Introduction
 
