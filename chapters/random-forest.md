@@ -2,7 +2,7 @@
 
 Random Forest is an ensemble machine learning method that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes of the individual trees. It falls under the category of supervised learning.
 
-{% embed url="https://youtu.be/izVn6Yvj7nI?si=obo-kNd4Q-rMvstk" %}
+{% embed url="https://youtu.be/sLT1E9MDgpI?si=4L45peaRpjkZOkOB" %}
 
 ## Random Forest: Introduction
 
