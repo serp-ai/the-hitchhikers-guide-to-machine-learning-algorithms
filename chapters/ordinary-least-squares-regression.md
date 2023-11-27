@@ -4,7 +4,7 @@ Examples & Code
 
 The Ordinary Least Squares Regression (OLSR) is a regression algorithm used in supervised learning. It is a type of linear least squares method utilized for estimating the unknown parameters in a linear regression model. As a regression algorithm, OLSR is used to predict continuous numerical values. It is widely used in various fields, including finance, economics, engineering, and social sciences, to analyze the relationship between variables and to make predictions based on that relationship.
 
-{% embed url="https://youtu.be/CdyclQqvdl8?si=Fa9s7-qt4FZz08DZ" %}
+{% embed url="https://youtu.be/tdtyX_5QVjg?si=caeX97nP-K6MXTVx" %}
 
 ## Ordinary Least Squares Regression: Introduction
 
