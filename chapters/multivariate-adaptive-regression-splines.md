@@ -4,7 +4,7 @@ Explanations, Examples & Code
 
 Multivariate Adaptive Regression Splines (MARS) is a regression analysis algorithm that models complex data by piecing together simpler functions. It falls under the category of supervised learning methods and is commonly used for predictive modeling and data analysis.
 
-{% embed url="https://youtu.be/tudTz9ka4RQ?si=Tl-RWt7IJ6Htc51w" %}
+{% embed url="https://youtu.be/tUw7BggxzrA?si=kVus0wlFFkLv81iB" %}
 
 ## Multivariate Adaptive Regression Splines: Introduction
 
