@@ -4,7 +4,7 @@ Examples & Code
 
 Stochastic Gradient Descent is an **optimization** method used to minimize the cost function in machine learning. It approximates the true gradient of the cost function by considering only one sample at a time from the training set. This algorithm is widely used in deep learning and other machine learning models.
 
-{% embed url="https://youtu.be/XuFU_P0AgQ0?si=n5PKlL4Ccg9O2pkg" %}
+{% embed url="https://youtu.be/IZCGGBwXS4s?si=0sM2Png5vi7HltxG" %}
 
 ## Stochastic Gradient Descent: Introduction
 
