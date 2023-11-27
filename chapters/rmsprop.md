@@ -2,7 +2,7 @@
 
 RMSProp is an optimization algorithm that falls in the category of gradient descent. It uses a moving average of squared gradients to normalize the gradient itself, making it particularly effective in training deep neural networks. As an optimization algorithm, RMSProp is used to minimize the loss function of a neural network, making it an important component of machine learning.
 
-{% embed url="https://youtu.be/ykNeg4BAg6o?si=GnLEvHxRunk-H5Z1" %}
+{% embed url="https://youtu.be/Z14UUhPxX54?si=gpG-gD7p2rNe5emY" %}
 
 ## RMSProp: Introduction
 
