@@ -2,7 +2,7 @@
 
 Sammon Mapping is a non-linear projection method used in dimensionality reduction. It belongs to the unsupervised learning methods and aims to preserve the structure of the data as much as possible in lower-dimensional spaces.
 
-{% embed url="https://youtu.be/oUMZIhHPKK8?si=hUc-WfWCatqXBEaO" %}
+{% embed url="https://youtu.be/vRo02Ug2alA?si=gjUPOoczuaJZQatv" %}
 
 ## Sammon Mapping: Introduction
 
