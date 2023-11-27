@@ -12,7 +12,7 @@ Code
 
 * Supervised Learning
 
-{% embed url="https://youtu.be/utKZHseTpvo?si=M41QbfeFGeM6jQYN" %}
+{% embed url="https://youtu.be/OnbfSti7wps?si=j7jirEEx2iiY7VlM" %}
 
 ## Multinomial Naive Bayes: Introduction
 
