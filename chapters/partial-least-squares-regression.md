@@ -4,7 +4,7 @@ Examples & Code
 
 Partial Least Squares Regression (PLSR) is a **dimensionality reduction** technique used in **supervised learning**. PLSR is a method for constructing predictive models when the factors are many and highly collinear. It is a regression-based approach that seeks to find the directions in the predictor space that explain the maximum covariance between the predictors and the response.
 
-{% embed url="https://youtu.be/gBbPWgFrKsk?si=r47aAO8k1pC0JKb-" %}
+{% embed url="https://youtu.be/ApusVuE2zNY?si=ysytsTMpo3r6T306" %}
 
 ## Partial Least Squares Regression: Introduction
 
