@@ -4,7 +4,7 @@ Code
 
 The Recurrent Neural Network, also known as RNN, is a type of Deep Learning algorithm. It is characterized by its ability to form directed graph connections between nodes along a sequence, which allows it to exhibit temporal dynamic behavior. RNN has become increasingly popular in recent years due to its ability to handle sequential data of varying lengths. RNN can be trained using both Supervised and Unsupervised Learning methods.
 
-{% embed url="https://youtu.be/PTbiUllCHV4?si=BJFtWdkqOP3bRrG8" %}
+{% embed url="https://youtu.be/Q1cX5E-Jlzo?si=Eg2Djb6Rrw0FICUt" %}
 
 ## Recurrent Neural Network: Introduction
 
