@@ -2,7 +2,7 @@
 
 Q-learning is a **model-free, off-policy** _temporal difference_ reinforcement learning algorithm that is used to determine the best course of action based on the current state of an agent.
 
-{% embed url="https://youtu.be/PJgWStanH6c?si=HiH1gFwMNIDLsHfg" %}
+{% embed url="https://youtu.be/JzXrOR9BjQ8?si=TnVrFxoGl9Zsifky" %}
 
 ## Q-learning: Introduction
 
