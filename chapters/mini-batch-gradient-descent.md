@@ -4,7 +4,7 @@ Examples & Code
 
 Mini-Batch Gradient Descent is an optimization algorithm used in the field of machine learning. It is a variation of the gradient descent algorithm that splits the training dataset into small batches. These batches are then used to calculate the error of the model and update its coefficients. Mini-Batch Gradient Descent is used to minimize the cost function of a model and is a commonly used algorithm in deep learning.
 
-{% embed url="https://youtu.be/eo4fK0x3mBA?si=ee6sLQVJ0tYpiB7F" %}
+{% embed url="https://youtu.be/UnrxGyeYxW4?si=JxZvteVNaTbcV-RW" %}
 
 ## Mini-Batch Gradient Descent: Introduction
 
