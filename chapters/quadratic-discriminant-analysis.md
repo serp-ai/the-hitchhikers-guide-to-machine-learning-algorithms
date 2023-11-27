@@ -4,7 +4,7 @@ Examples & Code
 
 Quadratic Discriminant Analysis (QDA) is a dimensionality reduction algorithm used for classification tasks in supervised learning. QDA generates a quadratic decision boundary by fitting class conditional densities to the data and using Bayes’ rule. As a result, QDA is a useful tool for solving classification problems with non-linear decision boundaries.
 
-{% embed url="https://youtu.be/mSVTvGYpAfQ?si=H0rMDmHmKTnxuttU" %}
+{% embed url="https://youtu.be/_rmZk_-4mq8?si=PR9rnpJM9p7D_QcN" %}
 
 ## Quadratic Discriminant Analysis: Introduction
 
