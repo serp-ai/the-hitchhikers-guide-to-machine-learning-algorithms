@@ -2,7 +2,7 @@
 
 Policy Gradients (PG) is an optimization algorithm used in artificial intelligence and machine learning, specifically in the field of reinforcement learning. This algorithm operates by directly optimizing the policy the agent is using, without the need for a value function. The agent's policy is typically parameterized by a neural network, which is trained to maximize expected return.
 
-{% embed url="https://youtu.be/9zTxddZRRac?si=nhFUSg6YFbIiMW_h" %}
+{% embed url="https://youtu.be/-BUFm1sH6Mk?si=sO6X99jk6wW34Glm" %}
 
 ## Policy Gradients: Introduction
 
