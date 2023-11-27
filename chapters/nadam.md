@@ -2,7 +2,7 @@
 
 Nadam is an optimization algorithm that combines the Adam optimization algorithm with Nesterov accelerated gradient. It falls under the category of optimization algorithms in machine learning and artificial intelligence. Nadam is used for learning methods such as gradient descent, which helps to optimize and update the weights of a neural network during training.
 
-{% embed url="https://youtu.be/LZDB-XgJIEo?si=gxIMciAyPwouyGCH" %}
+{% embed url="https://youtu.be/hgu5sCydEqE?si=U5ynQuVY3rhzv8BR" %}
 
 ## Nadam: Introduction
 
