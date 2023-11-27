@@ -2,7 +2,7 @@
 
 Rotation Forest is an **ensemble learning** method that generates individual decision trees based on differently transformed subsets of the original features. The transformations aim to enhance diversity among the individual models, increasing the robustness of the resulting ensemble model. It falls under the category of **supervised learning**.
 
-{% embed url="https://youtu.be/W6Tz7P9YFVg?si=fnlz6qAFhdm6IPkO" %}
+{% embed url="https://youtu.be/AcHU6yjfiAk?si=qkocRgUr7EGOVnaO" %}
 
 ## Rotation Forest: Introduction
 
