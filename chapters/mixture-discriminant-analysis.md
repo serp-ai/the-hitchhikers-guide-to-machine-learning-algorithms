@@ -4,7 +4,7 @@ Examples & Code
 
 Mixture Discriminant Analysis ( **MDA** ) is a **dimensionality reduction** method that extends linear and quadratic discriminant analysis by allowing for more complex class conditional densities. It falls under the category of **supervised learning** algorithms.
 
-{% embed url="https://youtu.be/RG2QbPZhFas?si=ekVJUA04umV5kivQ" %}
+{% embed url="https://youtu.be/lBsWRMJKxmQ?si=79jiRjO6JECW5DRH" %}
 
 ## Mixture Discriminant Analysis: Introduction
 
