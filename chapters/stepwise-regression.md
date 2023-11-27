@@ -2,7 +2,7 @@
 
 Stepwise Regression is a **regression** algorithm that falls under the category of **supervised learning**. It is a method of fitting regression models in which the choice of predictive variables is carried out automatically.
 
-{% embed url="https://youtu.be/0gQ61AirOUM?si=rYpuBJukBMbcROd8" %}
+{% embed url="https://youtu.be/gn9Ycx9lVwo?si=Pz5ydn-LLTa0EZKB" %}
 
 ## Stepwise Regression: Introduction
 
