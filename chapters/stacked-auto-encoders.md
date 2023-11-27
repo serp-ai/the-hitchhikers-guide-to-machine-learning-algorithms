@@ -4,7 +4,7 @@ Code
 
 Stacked Auto-Encoders is a type of neural network used in Deep Learning. It is made up of multiple layers of sparse autoencoders, with the outputs of each layer connected to the inputs of the next layer. Stacked Auto-Encoders can be trained using unsupervised or semi-supervised learning methods, making it a powerful tool for machine learning engineers to use in their work.
 
-{% embed url="https://youtu.be/roAJT531yl0?si=Qi_OWX0Kw9EzIrFs" %}
+{% embed url="https://youtu.be/4i6n_apUsmQ?si=JAIRxvzi1dPLK8m2" %}
 
 ## Stacked Auto-Encoders: Introduction
 
