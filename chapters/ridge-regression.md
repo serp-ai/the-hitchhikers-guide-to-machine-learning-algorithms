@@ -2,7 +2,7 @@
 
 Ridge Regression is a **regularization** method used in **Supervised Learning**. It uses **L2 regularization** to prevent overfitting by adding a penalty term to the loss function. This penalty term limits the magnitude of the coefficients in the regression model, which can help prevent overfitting and improve generalization performance.
 
-{% embed url="https://youtu.be/xRDHq4VI7RM?si=-0gDTfXbIOK8EeAb" %}
+{% embed url="https://youtu.be/2zC8eweCxZ4?si=HqJ96xKNqOQ9RYVl" %}
 
 ## Ridge Regression: Introduction
 
