@@ -4,7 +4,7 @@ Examples & Code
 
 Proximal Policy Optimization (PPO) is a type of policy optimization method developed by OpenAI, used mainly in reinforcement learning. It seeks to find the best policy by minimizing the difference between the new and old policy through a novel objective function. This helps prevent large updates that could destabilize learning, making PPO more stable and robust than some other policy optimization methods. Its effectiveness and computational efficiency have made it a popular choice for many reinforcement learning tasks.
 
-{% embed url="https://youtu.be/zzBONttYta8?si=Pyy8UUscy6bWM2Ss" %}
+{% embed url="https://youtu.be/E9FZ8J4yhyI?si=2BvBhCK_rAq4WNiC" %}
 
 ## Proximal Policy Optimization: Introduction
 
