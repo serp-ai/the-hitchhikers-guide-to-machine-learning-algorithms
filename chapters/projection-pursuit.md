@@ -2,7 +2,7 @@
 
 Projection Pursuit is a type of **dimensionality reduction** algorithm that involves finding the most "interesting" possible projections in multidimensional data. It is a statistical technique that can be used for various purposes, such as data visualization, feature extraction, and exploratory data analysis. The algorithm uses a criterion function to identify the most informative projections, which can be either supervised or unsupervised. In **supervised learning** , the criterion function is guided by a target variable, allowing the algorithm to identify projections that are most relevant to the outcome of interest.
 
-{% embed url="https://youtu.be/bIdsNUB6sJs?si=1UKGWZfxRuj-ePGV" %}
+{% embed url="https://youtu.be/UvqNoGDGngA?si=1eAICKBg2M3eGv26" %}
 
 ## Projection Pursuit: Introduction
 
