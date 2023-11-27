@@ -2,7 +2,7 @@
 
 Spectral Clustering is an **unsupervised learning** algorithm that performs clustering by creating a **similarity graph** of the data and then analyzing the **eigenvectors** of the Laplacian of this graph. It is a **graph-based** algorithm used for clustering and dimensionality reduction.
 
-{% embed url="https://youtu.be/5nyohoWlI-4?si=uH-7oJfor1W51tme" %}
+{% embed url="https://youtu.be/n8HYrl89S8g?si=x7-9TPZndZDDYpYB" %}
 
 ## Spectral Clustering: Introduction
 
