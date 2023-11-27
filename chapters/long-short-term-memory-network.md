@@ -4,7 +4,7 @@ Examples & Code
 
 The **Long Short-Term Memory Network (LSTM)** is a type of _deep learning_ algorithm capable of learning order dependence in sequence prediction problems. As a type of recurrent neural network, LSTM is particularly useful in tasks that require the model to remember and selectively forget information over an extended period. LSTM is trained using _supervised learning_ methods and is useful in a wide range of natural language processing, speech recognition, and image captioning applications.
 
-{% embed url="https://youtu.be/bbvO4dbo9fc?si=t6siU2t6AER5lRuU" %}
+{% embed url="https://youtu.be/ywWKywhStxo?si=WxpHUUjQwheiZdqm" %}
 
 ## Long Short-Term Memory Network: Introduction
 
