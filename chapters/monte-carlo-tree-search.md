@@ -4,7 +4,7 @@ Code
 
 Monte Carlo Tree Search (MCTS) is a best-first, rollout-based tree search algorithm. In a given state of the game, MCTS starts by simulating a random game to the very end, then updates the value of the played moves based on the game's result. This process is repeated many times, each time building a tree of explored game states. When deciding on the actual move to play, MCTS chooses the move that leads to the most promising state, i.e., the state with the highest average result over the simulations. MCTS has been used successfully in many domains, perhaps most famously in the game of Go, where it was a key component of DeepMind's AlphaGo program that defeated the world champion.
 
-{% embed url="https://youtu.be/rTg8sG4tec8?si=C9xJv0bwMJUfEKlf" %}
+{% embed url="https://youtu.be/u37Az30ci4Q?si=b7CBW57gZ2b3RQGD" %}
 
 ## Monte Carlo Tree Search: Introduction
 
