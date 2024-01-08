@@ -1,0 +1,18 @@
+{
+    "plugins": [ "rss" ],
+    "pluginsConfig": {
+      "rss": {
+        "title": "My amazing book",
+        "description": "This is the best book ever.",
+        "author": "Devin Schumacher",
+        "site_url": "http://book.org/",
+        "managingEditor": "writer@book.org (Denys Dovhan)",
+        "webMaster": "webmaster@book.org (Denys Dovhan)",
+        "categories": [
+          "awesome",
+          "book",
+          "gitbook"
+        ]
+      }
+    }
+  }

@@ -1,0 +1,85 @@
+{
+  "name": "gitbook-plugin-rss",
+  "version": "3.0.2",
+  "description": "RSS for your gitbook",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4",
+    "gitbook": ">=3.2.0"
+  },
+  "gitbook": {
+    "properties": {
+      "title": {
+        "type": "string",
+        "required": true,
+        "description": "Title of your site or feed."
+      },
+      "description": {
+        "type": "string",
+        "description": "A short description of the feed."
+      },
+      "generator": {
+        "type": "string",
+        "description": "Feed generator."
+      },
+      "site_url": {
+        "type": "string",
+        "required": true,
+        "description": "Url to the site that the feed is for."
+      },
+      "feed_url": {
+        "type": "string",
+        "required": true,
+        "description": "Url to the rss feed."
+      },
+      "image_url": {
+        "type": "string",
+        "description": "Small image for feed readers to use."
+      },
+      "managingEditor": {
+        "type": "string",
+        "description": "Who manages content in this feed."
+      },
+      "webMaster": {
+        "type": "string",
+        "description": "Who manages feed availability and technical support."
+      },
+      "categories": {
+        "type": "array",
+        "description": "One or more categories this feed belongs to."
+      },
+      "copyright": {
+        "type": "string",
+        "description": "Copyright information for this feed."
+      },
+      "language": {
+        "type": "string",
+        "description": "The language of the content of this feed."
+      }
+    }
+  },
+  "scripts": {
+    "postpublish": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysdovhan/gitbook-plugin-rss.git"
+  },
+  "keywords": [
+    "gitbook",
+    "rss",
+    "plugin"
+  ],
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denysdovhan/gitbook-plugin-rss/issues"
+  },
+  "homepage": "https://github.com/denysdovhan/gitbook-plugin-rss#readme",
+  "dependencies": {
+    "get-md-desc": "^1.0.2",
+    "get-md-title": "^1.0.4",
+    "gitbook-plugin-rss": "^3.0.2",
+    "rss": "^1.2.2"
+  }
+}
